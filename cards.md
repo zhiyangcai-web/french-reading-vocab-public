@@ -138,6 +138,50 @@ Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire 
 
 使用场景: 描述服装细节、制服、紧张时的小动作。
 
+### 7. un peignoir
+
+- 中文: 浴袍；晨衣
+- 词性: nom masculin
+- 法语简释: Vêtement ample porté à la maison, souvent après la douche ou au réveil.
+- 来源: page 15
+- 标签: vetements, maison, quotidien
+- 搭配:
+  - porter un peignoir
+  - descendre en peignoir
+  - un peignoir blanc
+
+例句:
+
+```text
+Marianne est descendue en peignoir.
+```
+
+例句翻译: 玛丽安穿着浴袍下楼了。
+
+使用场景: 用于描写居家、浴后或刚起床时的衣着。
+
+### 8. noué à la taille
+
+- 中文: 系在腰间的
+- 词性: participe passé / expression adjectivale
+- 法语简释: Attaché par un nœud autour de la taille.
+- 来源: page 15
+- 标签: vetements, geste, description
+- 搭配:
+  - un peignoir noué à la taille
+  - une ceinture nouée
+  - nouer quelque chose autour de la taille
+
+例句:
+
+```text
+C’était un simple peignoir blanc, noué à la taille.
+```
+
+例句翻译: 那只是一件简单的白色浴袍，系在腰间。
+
+使用场景: 用于描述衣服、腰带、围裙等被打结系住的状态。
+
 ## Matières et objets
 
 ### 1. le caoutchouc
@@ -430,6 +474,94 @@ Il s’essuie les mains de haut en bas, sans réfléchir, sur la chemise de son 
 
 使用场景: 用于描述擦手、擦脸等具体动作，也可以写出紧张时无意识的小动作。
 
+### 6. reluquer
+
+- 中文: 盯着看；偷看；色迷迷地看
+- 词性: verbe familier
+- 法语简释: Regarder quelqu’un ou quelque chose avec insistance, souvent d’une manière indiscrète ou déplacée.
+- 来源: page 15
+- 标签: regard, familier, jugement
+- 搭配:
+  - reluquer quelqu’un
+  - reluquer quelque chose
+  - se faire reluquer
+
+例句:
+
+```text
+Comme quand on reluque quelque chose qu’on n’est pas censé voir.
+```
+
+例句翻译: 就像人在偷看某个本不该看的东西时那样。
+
+使用场景: 用于描述不太礼貌、带窥视感或带欲望意味的看。
+
+### 7. détourner le regard
+
+- 中文: 移开视线；把目光转开
+- 词性: locution verbale
+- 法语简释: Cesser de regarder quelqu’un ou quelque chose, souvent par gêne, malaise ou refus.
+- 来源: page 15
+- 标签: regard, geste, evitement
+- 搭配:
+  - détourner le regard
+  - détourner les yeux
+  - détourner le regard de quelqu’un
+
+例句:
+
+```text
+Il continue de détourner le regard, vaguement déstabilisé.
+```
+
+例句翻译: 他继续移开视线，隐约有些乱了阵脚。
+
+使用场景: 用于描述尴尬、不想面对、回避目光接触的动作。
+
+### 8. se conduire
+
+- 中文: 表现；举止；行为
+- 词性: verbe pronominal
+- 法语简释: Agir ou se comporter d’une certaine manière dans une situation.
+- 来源: page 15
+- 标签: comportement, attitude, relation
+- 搭配:
+  - se conduire étrangement
+  - bien se conduire
+  - se conduire comme quelqu’un
+
+例句:
+
+```text
+Il redoute sa compagnie parce qu’il a l’impression de se conduire étrangement.
+```
+
+例句翻译: 他害怕和她相处，因为他觉得自己举止很奇怪。
+
+使用场景: 用于描述一个人在社交场合或特定情境中的行为方式。
+
+### 9. apercevoir
+
+- 中文: 瞥见；看见；注意到
+- 词性: verbe
+- 法语简释: Voir quelqu’un ou quelque chose brièvement ou soudainement.
+- 来源: page 15
+- 标签: regard, perception, rencontre
+- 搭配:
+  - apercevoir quelqu’un
+  - apercevoir quelque chose au loin
+  - en apercevant quelqu’un
+
+例句:
+
+```text
+En apercevant Connell, elle a eu un instant d’hésitation dans l’escalier.
+```
+
+例句翻译: 一看见 Connell，她在楼梯上迟疑了一下。
+
+使用场景: 用于描述突然看见、远远看到或短暂注意到某人某物。
+
 ## Sentiments et jugement
 
 ### 1. culpabiliser
@@ -652,6 +784,94 @@ C’est à cause de ça que les autres lui en veulent.
 
 使用场景: 用于表达对某人有怨气、责怪某人，常用于关系和冲突。
 
+### 11. déstabilisé / déstabilisée
+
+- 中文: 被扰乱的；不知所措的；乱了阵脚的
+- 词性: adjectif
+- 法语简释: Qui perd son assurance ou son équilibre intérieur face à une situation inattendue.
+- 来源: page 15
+- 标签: sentiment, malaise, reaction
+- 搭配:
+  - être déstabilisé
+  - se sentir déstabilisé
+  - vaguement déstabilisé
+
+例句:
+
+```text
+Il continue de détourner le regard, vaguement déstabilisé.
+```
+
+例句翻译: 他继续移开视线，隐约有些乱了阵脚。
+
+使用场景: 用于写被一句话、一个动作或某种气氛影响后失去镇定。
+
+### 12. percevoir
+
+- 中文: 察觉；感知；感觉到
+- 词性: verbe
+- 法语简释: Saisir quelque chose par les sens ou par l’esprit, parfois de façon subtile.
+- 来源: page 15
+- 标签: perception, sentiment, abstrait
+- 搭配:
+  - percevoir un sentiment
+  - percevoir un changement
+  - percevoir quelque chose clairement
+
+例句:
+
+```text
+Quand il parle avec elle, il perçoit un sentiment d’intimité totale entre eux.
+```
+
+例句翻译: 当他和她说话时，他感觉到他们之间有一种完全亲密的感觉。
+
+使用场景: 用于描述细微地察觉情绪、气氛、变化或关系。
+
+### 13. décontracté / décontractée
+
+- 中文: 放松的；不拘束的；随意的
+- 词性: adjectif
+- 法语简释: Qui est détendu, naturel et sans tension apparente.
+- 来源: page 15
+- 标签: attitude, calme, description
+- 搭配:
+  - être décontracté
+  - avoir l’air décontracté
+  - une attitude décontractée
+
+例句:
+
+```text
+Elle ne lui fait pas peur, elle est même plutôt décontractée.
+```
+
+例句翻译: 她并不会让他害怕，甚至还相当放松。
+
+使用场景: 用于描述人不紧张、举止自然，或场合比较随意。
+
+### 14. troublé / troublée
+
+- 中文: 困扰的；不安的；慌乱的
+- 词性: adjectif
+- 法语简释: Qui est ému, gêné ou perturbé par une situation.
+- 来源: page 15
+- 标签: sentiment, malaise, reaction
+- 搭配:
+  - avoir l’air troublé
+  - être troublé par quelque chose
+  - un regard troublé
+
+例句:
+
+```text
+Elle a peut-être eu l’air un peu troublée, mais rien de bien méchant.
+```
+
+例句翻译: 她也许看起来有点慌乱，但并不是什么严重的事。
+
+使用场景: 用于描述人被某个场面、情绪或意外打乱后显得不安。
+
 ## Description physique et objets
 
 ### 1. épais / épaisse
@@ -764,6 +984,50 @@ Marianne n’est jamais sortie avec personne au bahut, personne ne l’a jamais 
 
 使用场景: 用于描述身体裸露，也常出现在亲密关系、传闻或尴尬语境中。
 
+### 6. mouillé / mouillée
+
+- 中文: 湿的；被弄湿的
+- 词性: adjectif
+- 法语简释: Qui est couvert d’eau ou imprégné d’un liquide.
+- 来源: page 15
+- 标签: description, corps, eau
+- 搭配:
+  - les cheveux mouillés
+  - être tout mouillé
+  - des vêtements mouillés
+
+例句:
+
+```text
+Elle avait les cheveux mouillés et la peau luisante.
+```
+
+例句翻译: 她头发湿着，皮肤泛着光。
+
+使用场景: 用于描述头发、衣服、地面等有水或湿润的状态。
+
+### 7. luisant / luisante
+
+- 中文: 发亮的；有光泽的
+- 词性: adjectif
+- 法语简释: Qui brille légèrement, souvent à cause de l’eau, de la lumière ou d’une matière grasse.
+- 来源: page 15
+- 标签: description, surface, lumiere
+- 搭配:
+  - la peau luisante
+  - des cheveux luisants
+  - une surface luisante
+
+例句:
+
+```text
+Elle avait les cheveux mouillés et la peau luisante.
+```
+
+例句翻译: 她头发湿着，皮肤泛着光。
+
+使用场景: 用于描写皮肤、头发、物体表面因湿润或光线而发亮。
+
 ## Actions du quotidien
 
 ### 1. renverser
@@ -809,6 +1073,72 @@ Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelag
 例句翻译: 他把鞋尖塞进地砖之间的一条缝里。
 
 使用场景: 描述细小动作、紧张时的身体动作或物体移动。
+
+### 3. s’habiller
+
+- 中文: 穿衣服；打扮
+- 词性: verbe pronominal
+- 法语简释: Mettre des vêtements sur soi.
+- 来源: page 15
+- 标签: vetements, quotidien, action
+- 搭配:
+  - être en train de s’habiller
+  - s’habiller rapidement
+  - s’habiller pour sortir
+
+例句:
+
+```text
+Il a compris qu’elle était sans doute en train de s’habiller.
+```
+
+例句翻译: 他明白她大概正在穿衣服。
+
+使用场景: 用于日常穿衣，也可表示为了某个场合进行打扮。
+
+### 4. choisir soigneusement
+
+- 中文: 仔细挑选；认真选择
+- 词性: locution verbale
+- 法语简释: Sélectionner quelque chose avec attention et soin.
+- 来源: page 15
+- 标签: choix, attention, vetements
+- 搭配:
+  - choisir soigneusement une tenue
+  - choisir soigneusement ses mots
+  - choisir soigneusement un cadeau
+
+例句:
+
+```text
+Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre.
+```
+
+例句翻译: 她会仔细挑选一套等会儿再下楼时要穿的衣服。
+
+使用场景: 用于描述认真挑衣服、措辞、礼物或方案。
+
+### 5. redescendre
+
+- 中文: 重新下去；再下楼
+- 词性: verbe
+- 法语简释: Descendre de nouveau vers un lieu situé plus bas.
+- 来源: page 15
+- 标签: deplacement, maison, action
+- 搭配:
+  - redescendre dans l’entrée
+  - redescendre les escaliers
+  - redescendre voir quelqu’un
+
+例句:
+
+```text
+Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre.
+```
+
+例句翻译: 她会仔细挑选一套等会儿再下楼时要穿的衣服。
+
+使用场景: 用于描述再次下楼、回到较低的位置或情绪/压力下降。
 
 ## Vie scolaire et relations
 
@@ -1055,6 +1385,72 @@ Connell pense que le véritable but de cette histoire est tout autre.
 例句翻译: Connell 觉得这件事真正的目的完全是另一回事。
 
 使用场景: 用于说故事、传闻，也可表示“这件事/这桩事”。
+
+### 5. ne pas être censé faire quelque chose
+
+- 中文: 本不应该做某事；按理不该做某事
+- 词性: expression verbale
+- 法语简释: Ne pas être supposé faire quelque chose selon une règle, une attente ou une limite implicite.
+- 来源: page 15
+- 标签: obligation, interdit, attente
+- 搭配:
+  - ne pas être censé voir quelque chose
+  - ne pas être censé savoir
+  - ne pas être censé être là
+
+例句:
+
+```text
+Comme quand on reluque quelque chose qu’on n’est pas censé voir.
+```
+
+例句翻译: 就像人在偷看某个本不该看的东西时那样。
+
+使用场景: 用于表达某事按理不该发生、不该被看到或不该被知道。
+
+### 6. méchant / méchante
+
+- 中文: 坏的；恶意的；严重的
+- 词性: adjectif
+- 法语简释: Qui fait du mal ou qui est désagréable; dans certaines expressions, signifie aussi grave ou important.
+- 来源: page 15
+- 标签: nuance, jugement, oral
+- 搭配:
+  - rien de bien méchant
+  - un commentaire méchant
+  - ne pas être méchant
+
+例句:
+
+```text
+Elle a peut-être eu l’air un peu troublée, mais rien de bien méchant.
+```
+
+例句翻译: 她也许看起来有点慌乱，但并不是什么严重的事。
+
+使用场景: 用于描述恶意、刻薄，也可在 rien de bien méchant 中表示“不严重”。
+
+### 7. sachant que
+
+- 中文: 考虑到；知道……的情况下
+- 词性: locution conjonctive
+- 法语简释: Introduit une information connue qui explique ou nuance une action.
+- 来源: page 15
+- 标签: cause, contexte, phrase
+- 搭配:
+  - sachant que quelqu’un est là
+  - sachant que c’est important
+  - agir en sachant que
+
+例句:
+
+```text
+Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre, sachant qu’il était là.
+```
+
+例句翻译: 她会仔细挑选一套等会儿再下楼时要穿的衣服，因为她知道他在那里。
+
+使用场景: 用于补充背景条件，表达“在知道某事的情况下”。
 
 ## Corps et sensations
 

@@ -1226,6 +1226,438 @@
       "exampleZh": "正是因为这个，其他人才怪她。",
       "useCase": "用于表达对某人有怨气、责怪某人，常用于关系和冲突。",
       "sourcePage": "page 14"
+    },
+    {
+      "id": "p15-reluquer",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "regard",
+        "familier",
+        "jugement"
+      ],
+      "expression": "reluquer",
+      "pos": "verbe familier",
+      "zh": "盯着看；偷看；色迷迷地看",
+      "definitionFr": "Regarder quelqu’un ou quelque chose avec insistance, souvent d’une manière indiscrète ou déplacée.",
+      "collocations": [
+        "reluquer quelqu’un",
+        "reluquer quelque chose",
+        "se faire reluquer"
+      ],
+      "example": "Comme quand on reluque quelque chose qu’on n’est pas censé voir.",
+      "exampleZh": "就像人在偷看某个本不该看的东西时那样。",
+      "useCase": "用于描述不太礼貌、带窥视感或带欲望意味的看。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-pas-cense",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Expression et nuance",
+      "tags": [
+        "obligation",
+        "interdit",
+        "attente"
+      ],
+      "expression": "ne pas être censé faire quelque chose",
+      "pos": "expression verbale",
+      "zh": "本不应该做某事；按理不该做某事",
+      "definitionFr": "Ne pas être supposé faire quelque chose selon une règle, une attente ou une limite implicite.",
+      "collocations": [
+        "ne pas être censé voir quelque chose",
+        "ne pas être censé savoir",
+        "ne pas être censé être là"
+      ],
+      "example": "Comme quand on reluque quelque chose qu’on n’est pas censé voir.",
+      "exampleZh": "就像人在偷看某个本不该看的东西时那样。",
+      "useCase": "用于表达某事按理不该发生、不该被看到或不该被知道。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-detourner-regard",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "regard",
+        "geste",
+        "evitement"
+      ],
+      "expression": "détourner le regard",
+      "pos": "locution verbale",
+      "zh": "移开视线；把目光转开",
+      "definitionFr": "Cesser de regarder quelqu’un ou quelque chose, souvent par gêne, malaise ou refus.",
+      "collocations": [
+        "détourner le regard",
+        "détourner les yeux",
+        "détourner le regard de quelqu’un"
+      ],
+      "example": "Il continue de détourner le regard, vaguement déstabilisé.",
+      "exampleZh": "他继续移开视线，隐约有些乱了阵脚。",
+      "useCase": "用于描述尴尬、不想面对、回避目光接触的动作。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-destabilise",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "malaise",
+        "reaction"
+      ],
+      "expression": "déstabilisé / déstabilisée",
+      "pos": "adjectif",
+      "zh": "被扰乱的；不知所措的；乱了阵脚的",
+      "definitionFr": "Qui perd son assurance ou son équilibre intérieur face à une situation inattendue.",
+      "collocations": [
+        "être déstabilisé",
+        "se sentir déstabilisé",
+        "vaguement déstabilisé"
+      ],
+      "example": "Il continue de détourner le regard, vaguement déstabilisé.",
+      "exampleZh": "他继续移开视线，隐约有些乱了阵脚。",
+      "useCase": "用于写被一句话、一个动作或某种气氛影响后失去镇定。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-percevoir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "perception",
+        "sentiment",
+        "abstrait"
+      ],
+      "expression": "percevoir",
+      "pos": "verbe",
+      "zh": "察觉；感知；感觉到",
+      "definitionFr": "Saisir quelque chose par les sens ou par l’esprit, parfois de façon subtile.",
+      "collocations": [
+        "percevoir un sentiment",
+        "percevoir un changement",
+        "percevoir quelque chose clairement"
+      ],
+      "example": "Quand il parle avec elle, il perçoit un sentiment d’intimité totale entre eux.",
+      "exampleZh": "当他和她说话时，他感觉到他们之间有一种完全亲密的感觉。",
+      "useCase": "用于描述细微地察觉情绪、气氛、变化或关系。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-decontracte",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "attitude",
+        "calme",
+        "description"
+      ],
+      "expression": "décontracté / décontractée",
+      "pos": "adjectif",
+      "zh": "放松的；不拘束的；随意的",
+      "definitionFr": "Qui est détendu, naturel et sans tension apparente.",
+      "collocations": [
+        "être décontracté",
+        "avoir l’air décontracté",
+        "une attitude décontractée"
+      ],
+      "example": "Elle ne lui fait pas peur, elle est même plutôt décontractée.",
+      "exampleZh": "她并不会让他害怕，甚至还相当放松。",
+      "useCase": "用于描述人不紧张、举止自然，或场合比较随意。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-se-conduire",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "comportement",
+        "attitude",
+        "relation"
+      ],
+      "expression": "se conduire",
+      "pos": "verbe pronominal",
+      "zh": "表现；举止；行为",
+      "definitionFr": "Agir ou se comporter d’une certaine manière dans une situation.",
+      "collocations": [
+        "se conduire étrangement",
+        "bien se conduire",
+        "se conduire comme quelqu’un"
+      ],
+      "example": "Il redoute sa compagnie parce qu’il a l’impression de se conduire étrangement.",
+      "exampleZh": "他害怕和她相处，因为他觉得自己举止很奇怪。",
+      "useCase": "用于描述一个人在社交场合或特定情境中的行为方式。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-peignoir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "vetements",
+        "maison",
+        "quotidien"
+      ],
+      "expression": "un peignoir",
+      "pos": "nom masculin",
+      "zh": "浴袍；晨衣",
+      "definitionFr": "Vêtement ample porté à la maison, souvent après la douche ou au réveil.",
+      "collocations": [
+        "porter un peignoir",
+        "descendre en peignoir",
+        "un peignoir blanc"
+      ],
+      "example": "Marianne est descendue en peignoir.",
+      "exampleZh": "玛丽安穿着浴袍下楼了。",
+      "useCase": "用于描写居家、浴后或刚起床时的衣着。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-noue-taille",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "vetements",
+        "geste",
+        "description"
+      ],
+      "expression": "noué à la taille",
+      "pos": "participe passé / expression adjectivale",
+      "zh": "系在腰间的",
+      "definitionFr": "Attaché par un nœud autour de la taille.",
+      "collocations": [
+        "un peignoir noué à la taille",
+        "une ceinture nouée",
+        "nouer quelque chose autour de la taille"
+      ],
+      "example": "C’était un simple peignoir blanc, noué à la taille.",
+      "exampleZh": "那只是一件简单的白色浴袍，系在腰间。",
+      "useCase": "用于描述衣服、腰带、围裙等被打结系住的状态。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-mouille",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Description physique et objets",
+      "tags": [
+        "description",
+        "corps",
+        "eau"
+      ],
+      "expression": "mouillé / mouillée",
+      "pos": "adjectif",
+      "zh": "湿的；被弄湿的",
+      "definitionFr": "Qui est couvert d’eau ou imprégné d’un liquide.",
+      "collocations": [
+        "les cheveux mouillés",
+        "être tout mouillé",
+        "des vêtements mouillés"
+      ],
+      "example": "Elle avait les cheveux mouillés et la peau luisante.",
+      "exampleZh": "她头发湿着，皮肤泛着光。",
+      "useCase": "用于描述头发、衣服、地面等有水或湿润的状态。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-luisant",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Description physique et objets",
+      "tags": [
+        "description",
+        "surface",
+        "lumiere"
+      ],
+      "expression": "luisant / luisante",
+      "pos": "adjectif",
+      "zh": "发亮的；有光泽的",
+      "definitionFr": "Qui brille légèrement, souvent à cause de l’eau, de la lumière ou d’une matière grasse.",
+      "collocations": [
+        "la peau luisante",
+        "des cheveux luisants",
+        "une surface luisante"
+      ],
+      "example": "Elle avait les cheveux mouillés et la peau luisante.",
+      "exampleZh": "她头发湿着，皮肤泛着光。",
+      "useCase": "用于描写皮肤、头发、物体表面因湿润或光线而发亮。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-apercevoir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "regard",
+        "perception",
+        "rencontre"
+      ],
+      "expression": "apercevoir",
+      "pos": "verbe",
+      "zh": "瞥见；看见；注意到",
+      "definitionFr": "Voir quelqu’un ou quelque chose brièvement ou soudainement.",
+      "collocations": [
+        "apercevoir quelqu’un",
+        "apercevoir quelque chose au loin",
+        "en apercevant quelqu’un"
+      ],
+      "example": "En apercevant Connell, elle a eu un instant d’hésitation dans l’escalier.",
+      "exampleZh": "一看见 Connell，她在楼梯上迟疑了一下。",
+      "useCase": "用于描述突然看见、远远看到或短暂注意到某人某物。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-trouble",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "malaise",
+        "reaction"
+      ],
+      "expression": "troublé / troublée",
+      "pos": "adjectif",
+      "zh": "困扰的；不安的；慌乱的",
+      "definitionFr": "Qui est ému, gêné ou perturbé par une situation.",
+      "collocations": [
+        "avoir l’air troublé",
+        "être troublé par quelque chose",
+        "un regard troublé"
+      ],
+      "example": "Elle a peut-être eu l’air un peu troublée, mais rien de bien méchant.",
+      "exampleZh": "她也许看起来有点慌乱，但并不是什么严重的事。",
+      "useCase": "用于描述人被某个场面、情绪或意外打乱后显得不安。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-mechant",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Expression et nuance",
+      "tags": [
+        "nuance",
+        "jugement",
+        "oral"
+      ],
+      "expression": "méchant / méchante",
+      "pos": "adjectif",
+      "zh": "坏的；恶意的；严重的",
+      "definitionFr": "Qui fait du mal ou qui est désagréable; dans certaines expressions, signifie aussi grave ou important.",
+      "collocations": [
+        "rien de bien méchant",
+        "un commentaire méchant",
+        "ne pas être méchant"
+      ],
+      "example": "Elle a peut-être eu l’air un peu troublée, mais rien de bien méchant.",
+      "exampleZh": "她也许看起来有点慌乱，但并不是什么严重的事。",
+      "useCase": "用于描述恶意、刻薄，也可在 rien de bien méchant 中表示“不严重”。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-shabiller",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "vetements",
+        "quotidien",
+        "action"
+      ],
+      "expression": "s’habiller",
+      "pos": "verbe pronominal",
+      "zh": "穿衣服；打扮",
+      "definitionFr": "Mettre des vêtements sur soi.",
+      "collocations": [
+        "être en train de s’habiller",
+        "s’habiller rapidement",
+        "s’habiller pour sortir"
+      ],
+      "example": "Il a compris qu’elle était sans doute en train de s’habiller.",
+      "exampleZh": "他明白她大概正在穿衣服。",
+      "useCase": "用于日常穿衣，也可表示为了某个场合进行打扮。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-choisir-soigneusement",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "choix",
+        "attention",
+        "vetements"
+      ],
+      "expression": "choisir soigneusement",
+      "pos": "locution verbale",
+      "zh": "仔细挑选；认真选择",
+      "definitionFr": "Sélectionner quelque chose avec attention et soin.",
+      "collocations": [
+        "choisir soigneusement une tenue",
+        "choisir soigneusement ses mots",
+        "choisir soigneusement un cadeau"
+      ],
+      "example": "Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre.",
+      "exampleZh": "她会仔细挑选一套等会儿再下楼时要穿的衣服。",
+      "useCase": "用于描述认真挑衣服、措辞、礼物或方案。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-redescendre",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "deplacement",
+        "maison",
+        "action"
+      ],
+      "expression": "redescendre",
+      "pos": "verbe",
+      "zh": "重新下去；再下楼",
+      "definitionFr": "Descendre de nouveau vers un lieu situé plus bas.",
+      "collocations": [
+        "redescendre dans l’entrée",
+        "redescendre les escaliers",
+        "redescendre voir quelqu’un"
+      ],
+      "example": "Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre.",
+      "exampleZh": "她会仔细挑选一套等会儿再下楼时要穿的衣服。",
+      "useCase": "用于描述再次下楼、回到较低的位置或情绪/压力下降。",
+      "sourcePage": "page 15"
+    },
+    {
+      "id": "p15-sachant-que",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 15",
+      "theme": "Expression et nuance",
+      "tags": [
+        "cause",
+        "contexte",
+        "phrase"
+      ],
+      "expression": "sachant que",
+      "pos": "locution conjonctive",
+      "zh": "考虑到；知道……的情况下",
+      "definitionFr": "Introduit une information connue qui explique ou nuance une action.",
+      "collocations": [
+        "sachant que quelqu’un est là",
+        "sachant que c’est important",
+        "agir en sachant que"
+      ],
+      "example": "Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre, sachant qu’il était là.",
+      "exampleZh": "她会仔细挑选一套等会儿再下楼时要穿的衣服，因为她知道他在那里。",
+      "useCase": "用于补充背景条件，表达“在知道某事的情况下”。",
+      "sourcePage": "page 15"
     }
   ]
 }

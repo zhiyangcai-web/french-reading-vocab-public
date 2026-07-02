@@ -4,7 +4,7 @@ Updated: 2026-07-02
 
 ## 2026-07-02
 
-Added 51 cards from the user's marked French reading pages.
+Added 69 cards from the user's marked French reading pages.
 
 ### Vêtements et objets du quotidien
 
@@ -14,6 +14,8 @@ Added 51 cards from the user's marked French reading pages.
 - `une cuillère` - 勺子
 - `des semelles` - 鞋底
 - `un nœud de cravate` - 领带结
+- `un peignoir` - 浴袍；晨衣
+- `noué à la taille` - 系在腰间的
 
 ### Matières et objets
 
@@ -36,6 +38,10 @@ Added 51 cards from the user's marked French reading pages.
 - `se frotter le cou` - 揉/摸脖子
 - `scruter` - 仔细察看；凝视；审视
 - `s’essuyer` - 擦干；擦拭自己身体的一部分
+- `reluquer` - 盯着看；偷看；色迷迷地看
+- `détourner le regard` - 移开视线；把目光转开
+- `se conduire` - 表现；举止；行为
+- `apercevoir` - 瞥见；看见；注意到
 
 ### Sentiments et jugement
 
@@ -49,6 +55,10 @@ Added 51 cards from the user's marked French reading pages.
 - `un élan` - 冲动；一阵情感；内心推动
 - `le dépit` - 懊恼；失望后的恼火
 - `en vouloir à quelqu’un` - 怨恨某人；怪某人
+- `déstabilisé / déstabilisée` - 被扰乱的；不知所措的；乱了阵脚的
+- `percevoir` - 察觉；感知；感觉到
+- `décontracté / décontractée` - 放松的；不拘束的；随意的
+- `troublé / troublée` - 困扰的；不安的；慌乱的
 
 ### Description physique et objets
 
@@ -57,11 +67,16 @@ Added 51 cards from the user's marked French reading pages.
 - `le crâne` - 头颅；头骨
 - `une silhouette` - 身影；轮廓；体形
 - `nu / nue` - 裸露的；赤裸的
+- `mouillé / mouillée` - 湿的；被弄湿的
+- `luisant / luisante` - 发亮的；有光泽的
 
 ### Actions du quotidien
 
 - `renverser` - 打翻；洒出；撞倒
 - `enfoncer` - 把……压入/塞入；使陷进去
+- `s’habiller` - 穿衣服；打扮
+- `choisir soigneusement` - 仔细挑选；认真选择
+- `redescendre` - 重新下去；再下楼
 
 ### Vie scolaire et relations
 
@@ -79,6 +94,9 @@ Added 51 cards from the user's marked French reading pages.
 - `en deçà de` - 低于；未达到；在……以内
 - `être censé faire quelque chose` - 按理应该做某事；被认为应该做某事
 - `une histoire` - 故事；传闻；事情
+- `ne pas être censé faire quelque chose` - 本不应该做某事；按理不该做某事
+- `méchant / méchante` - 坏的；恶意的；严重的
+- `sachant que` - 考虑到；知道……的情况下
 
 ### Corps et sensations
 
