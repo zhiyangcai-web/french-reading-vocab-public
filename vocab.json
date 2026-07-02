@@ -1658,6 +1658,198 @@
       "exampleZh": "她会仔细挑选一套等会儿再下楼时要穿的衣服，因为她知道他在那里。",
       "useCase": "用于补充背景条件，表达“在知道某事的情况下”。",
       "sourcePage": "page 15"
+    },
+    {
+      "id": "p16-peser-sur",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "poids",
+        "abstrait"
+      ],
+      "expression": "peser sur",
+      "pos": "verbe + préposition",
+      "zh": "压在……上；给……造成压力",
+      "definitionFr": "Exercer un poids réel ou symbolique sur quelqu’un ou quelque chose.",
+      "collocations": [
+        "peser sur le corps",
+        "peser sur la conscience",
+        "peser d’une force physique"
+      ],
+      "example": "L’intimité qui existe entre eux est très intense, elle pèse d’une force presque physique sur le visage et le corps de Connell.",
+      "exampleZh": "他们之间存在的亲密感非常强烈，几乎像一种身体性的力量压在 Connell 的脸和身体上。",
+      "useCase": "用于描述重量，也常用于抽象压力、气氛或情绪压在某人身上。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-corps",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Corps et sensations",
+      "tags": [
+        "corps",
+        "sensation",
+        "description"
+      ],
+      "expression": "le corps",
+      "pos": "nom masculin",
+      "zh": "身体；躯体",
+      "definitionFr": "Partie physique d’un être vivant, par opposition à l’esprit ou aux sentiments.",
+      "collocations": [
+        "le visage et le corps",
+        "un corps fatigué",
+        "ressentir quelque chose dans le corps"
+      ],
+      "example": "L’intimité qui existe entre eux est très intense, elle pèse d’une force presque physique sur le visage et le corps de Connell.",
+      "exampleZh": "他们之间存在的亲密感非常强烈，几乎像一种身体性的力量压在 Connell 的脸和身体上。",
+      "useCase": "用于描述身体本身、身体反应，以及情绪带来的身体感受。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-nouer",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "geste",
+        "vetements",
+        "action"
+      ],
+      "expression": "nouer",
+      "pos": "verbe",
+      "zh": "系；打结",
+      "definitionFr": "Attacher quelque chose en faisant un nœud.",
+      "collocations": [
+        "nouer un foulard",
+        "nouer une cravate",
+        "nouer quelque chose autour du cou"
+      ],
+      "example": "Puis Lorraine revient à la cuisine, nouant son foulard autour du cou.",
+      "exampleZh": "随后洛兰回到厨房，一边把围巾系在脖子上。",
+      "useCase": "用于描述系围巾、领带、腰带等动作。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-foulard",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "vetements",
+        "cou",
+        "quotidien"
+      ],
+      "expression": "un foulard",
+      "pos": "nom masculin",
+      "zh": "围巾；丝巾",
+      "definitionFr": "Pièce de tissu portée autour du cou ou sur la tête.",
+      "collocations": [
+        "nouer un foulard",
+        "porter un foulard",
+        "un foulard autour du cou"
+      ],
+      "example": "Puis Lorraine revient à la cuisine, nouant son foulard autour du cou.",
+      "exampleZh": "随后洛兰回到厨房，一边把围巾系在脖子上。",
+      "useCase": "用于描述服饰、脖子上的配饰或出门前的穿戴。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-franchir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "deplacement",
+        "passage",
+        "action"
+      ],
+      "expression": "franchir",
+      "pos": "verbe",
+      "zh": "跨过；越过；通过",
+      "definitionFr": "Passer au-delà d’une limite, d’un obstacle ou d’un seuil.",
+      "collocations": [
+        "franchir la porte",
+        "franchir une étape",
+        "franchir une limite"
+      ],
+      "example": "Connell a déjà franchi la porte quand sa mère lui fait remarquer : Tu pourrais dire au revoir, non ?",
+      "exampleZh": "母亲提醒他说“你可以道个别吧？”的时候，Connell 已经跨过了门。",
+      "useCase": "用于具体经过门槛、障碍，也可抽象表示跨过阶段或界限。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-ceinture",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "voiture",
+        "objet",
+        "securite"
+      ],
+      "expression": "une ceinture",
+      "pos": "nom féminin",
+      "zh": "腰带；安全带",
+      "definitionFr": "Bande portée autour de la taille, ou dispositif de sécurité attaché dans une voiture.",
+      "collocations": [
+        "attacher sa ceinture",
+        "mettre sa ceinture",
+        "une ceinture de sécurité"
+      ],
+      "example": "Dans la voiture, sa mère attache sa ceinture et secoue la tête.",
+      "exampleZh": "在车里，他母亲系上安全带，摇了摇头。",
+      "useCase": "用于衣服腰带，也用于车里的安全带。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-secouer-tete",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "geste",
+        "corps",
+        "reaction"
+      ],
+      "expression": "secouer la tête",
+      "pos": "locution verbale",
+      "zh": "摇头",
+      "definitionFr": "Bouger la tête d’un côté à l’autre, souvent pour exprimer le refus, le désaccord ou la désapprobation.",
+      "collocations": [
+        "secouer la tête",
+        "secouer la tête en silence",
+        "secouer la tête avec agacement"
+      ],
+      "example": "Dans la voiture, sa mère attache sa ceinture et secoue la tête.",
+      "exampleZh": "在车里，他母亲系上安全带，摇了摇头。",
+      "useCase": "用于描述否定、无奈、责备或不赞同的身体动作。",
+      "sourcePage": "page 16"
+    },
+    {
+      "id": "p16-grimace",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 16",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "visage",
+        "reaction",
+        "expression"
+      ],
+      "expression": "une grimace",
+      "pos": "nom féminin",
+      "zh": "鬼脸；怪相；不悦的表情",
+      "definitionFr": "Expression volontaire ou involontaire du visage, souvent déformée, qui montre le dégoût, l’ironie ou l’agacement.",
+      "collocations": [
+        "faire une grimace",
+        "une grimace de dégoût",
+        "une grimace moqueuse"
+      ],
+      "example": "Lorraine fait une grimace.",
+      "exampleZh": "洛兰露出一个怪表情。",
+      "useCase": "用于描述脸部表情，可能是鬼脸、厌烦、嘲讽或不舒服。",
+      "sourcePage": "page 16"
     }
   ]
 }

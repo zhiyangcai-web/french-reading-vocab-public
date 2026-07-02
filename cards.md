@@ -182,6 +182,50 @@ C’était un simple peignoir blanc, noué à la taille.
 
 使用场景: 用于描述衣服、腰带、围裙等被打结系住的状态。
 
+### 9. un foulard
+
+- 中文: 围巾；丝巾
+- 词性: nom masculin
+- 法语简释: Pièce de tissu portée autour du cou ou sur la tête.
+- 来源: page 16
+- 标签: vetements, cou, quotidien
+- 搭配:
+  - nouer un foulard
+  - porter un foulard
+  - un foulard autour du cou
+
+例句:
+
+```text
+Puis Lorraine revient à la cuisine, nouant son foulard autour du cou.
+```
+
+例句翻译: 随后洛兰回到厨房，一边把围巾系在脖子上。
+
+使用场景: 用于描述服饰、脖子上的配饰或出门前的穿戴。
+
+### 10. une ceinture
+
+- 中文: 腰带；安全带
+- 词性: nom féminin
+- 法语简释: Bande portée autour de la taille, ou dispositif de sécurité attaché dans une voiture.
+- 来源: page 16
+- 标签: voiture, objet, securite
+- 搭配:
+  - attacher sa ceinture
+  - mettre sa ceinture
+  - une ceinture de sécurité
+
+例句:
+
+```text
+Dans la voiture, sa mère attache sa ceinture et secoue la tête.
+```
+
+例句翻译: 在车里，他母亲系上安全带，摇了摇头。
+
+使用场景: 用于衣服腰带，也用于车里的安全带。
+
 ## Matières et objets
 
 ### 1. le caoutchouc
@@ -562,6 +606,72 @@ En apercevant Connell, elle a eu un instant d’hésitation dans l’escalier.
 
 使用场景: 用于描述突然看见、远远看到或短暂注意到某人某物。
 
+### 10. nouer
+
+- 中文: 系；打结
+- 词性: verbe
+- 法语简释: Attacher quelque chose en faisant un nœud.
+- 来源: page 16
+- 标签: geste, vetements, action
+- 搭配:
+  - nouer un foulard
+  - nouer une cravate
+  - nouer quelque chose autour du cou
+
+例句:
+
+```text
+Puis Lorraine revient à la cuisine, nouant son foulard autour du cou.
+```
+
+例句翻译: 随后洛兰回到厨房，一边把围巾系在脖子上。
+
+使用场景: 用于描述系围巾、领带、腰带等动作。
+
+### 11. secouer la tête
+
+- 中文: 摇头
+- 词性: locution verbale
+- 法语简释: Bouger la tête d’un côté à l’autre, souvent pour exprimer le refus, le désaccord ou la désapprobation.
+- 来源: page 16
+- 标签: geste, corps, reaction
+- 搭配:
+  - secouer la tête
+  - secouer la tête en silence
+  - secouer la tête avec agacement
+
+例句:
+
+```text
+Dans la voiture, sa mère attache sa ceinture et secoue la tête.
+```
+
+例句翻译: 在车里，他母亲系上安全带，摇了摇头。
+
+使用场景: 用于描述否定、无奈、责备或不赞同的身体动作。
+
+### 12. une grimace
+
+- 中文: 鬼脸；怪相；不悦的表情
+- 词性: nom féminin
+- 法语简释: Expression volontaire ou involontaire du visage, souvent déformée, qui montre le dégoût, l’ironie ou l’agacement.
+- 来源: page 16
+- 标签: visage, reaction, expression
+- 搭配:
+  - faire une grimace
+  - une grimace de dégoût
+  - une grimace moqueuse
+
+例句:
+
+```text
+Lorraine fait une grimace.
+```
+
+例句翻译: 洛兰露出一个怪表情。
+
+使用场景: 用于描述脸部表情，可能是鬼脸、厌烦、嘲讽或不舒服。
+
 ## Sentiments et jugement
 
 ### 1. culpabiliser
@@ -872,6 +982,28 @@ Elle a peut-être eu l’air un peu troublée, mais rien de bien méchant.
 
 使用场景: 用于描述人被某个场面、情绪或意外打乱后显得不安。
 
+### 15. peser sur
+
+- 中文: 压在……上；给……造成压力
+- 词性: verbe + préposition
+- 法语简释: Exercer un poids réel ou symbolique sur quelqu’un ou quelque chose.
+- 来源: page 16
+- 标签: sentiment, poids, abstrait
+- 搭配:
+  - peser sur le corps
+  - peser sur la conscience
+  - peser d’une force physique
+
+例句:
+
+```text
+L’intimité qui existe entre eux est très intense, elle pèse d’une force presque physique sur le visage et le corps de Connell.
+```
+
+例句翻译: 他们之间存在的亲密感非常强烈，几乎像一种身体性的力量压在 Connell 的脸和身体上。
+
+使用场景: 用于描述重量，也常用于抽象压力、气氛或情绪压在某人身上。
+
 ## Description physique et objets
 
 ### 1. épais / épaisse
@@ -1139,6 +1271,28 @@ Elle allait soigneusement choisir la tenue qu’elle porterait pour redescendre.
 例句翻译: 她会仔细挑选一套等会儿再下楼时要穿的衣服。
 
 使用场景: 用于描述再次下楼、回到较低的位置或情绪/压力下降。
+
+### 6. franchir
+
+- 中文: 跨过；越过；通过
+- 词性: verbe
+- 法语简释: Passer au-delà d’une limite, d’un obstacle ou d’un seuil.
+- 来源: page 16
+- 标签: deplacement, passage, action
+- 搭配:
+  - franchir la porte
+  - franchir une étape
+  - franchir une limite
+
+例句:
+
+```text
+Connell a déjà franchi la porte quand sa mère lui fait remarquer : Tu pourrais dire au revoir, non ?
+```
+
+例句翻译: 母亲提醒他说“你可以道个别吧？”的时候，Connell 已经跨过了门。
+
+使用场景: 用于具体经过门槛、障碍，也可抽象表示跨过阶段或界限。
 
 ## Vie scolaire et relations
 
@@ -1541,4 +1695,26 @@ Il ferme les yeux, colle la langue à son palais.
 例句翻译: 他闭上眼睛，把舌头贴在上颚上。
 
 使用场景: 用于描述口腔内部、吞咽、味觉或紧张时的小动作。
+
+### 5. le corps
+
+- 中文: 身体；躯体
+- 词性: nom masculin
+- 法语简释: Partie physique d’un être vivant, par opposition à l’esprit ou aux sentiments.
+- 来源: page 16
+- 标签: corps, sensation, description
+- 搭配:
+  - le visage et le corps
+  - un corps fatigué
+  - ressentir quelque chose dans le corps
+
+例句:
+
+```text
+L’intimité qui existe entre eux est très intense, elle pèse d’une force presque physique sur le visage et le corps de Connell.
+```
+
+例句翻译: 他们之间存在的亲密感非常强烈，几乎像一种身体性的力量压在 Connell 的脸和身体上。
+
+使用场景: 用于描述身体本身、身体反应，以及情绪带来的身体感受。
 

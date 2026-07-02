@@ -4,7 +4,7 @@ Updated: 2026-07-02
 
 ## 2026-07-02
 
-Added 69 cards from the user's marked French reading pages.
+Added 77 cards from the user's marked French reading pages.
 
 ### Vêtements et objets du quotidien
 
@@ -16,6 +16,8 @@ Added 69 cards from the user's marked French reading pages.
 - `un nœud de cravate` - 领带结
 - `un peignoir` - 浴袍；晨衣
 - `noué à la taille` - 系在腰间的
+- `un foulard` - 围巾；丝巾
+- `une ceinture` - 腰带；安全带
 
 ### Matières et objets
 
@@ -42,6 +44,9 @@ Added 69 cards from the user's marked French reading pages.
 - `détourner le regard` - 移开视线；把目光转开
 - `se conduire` - 表现；举止；行为
 - `apercevoir` - 瞥见；看见；注意到
+- `nouer` - 系；打结
+- `secouer la tête` - 摇头
+- `une grimace` - 鬼脸；怪相；不悦的表情
 
 ### Sentiments et jugement
 
@@ -59,6 +64,7 @@ Added 69 cards from the user's marked French reading pages.
 - `percevoir` - 察觉；感知；感觉到
 - `décontracté / décontractée` - 放松的；不拘束的；随意的
 - `troublé / troublée` - 困扰的；不安的；慌乱的
+- `peser sur` - 压在……上；给……造成压力
 
 ### Description physique et objets
 
@@ -77,6 +83,7 @@ Added 69 cards from the user's marked French reading pages.
 - `s’habiller` - 穿衣服；打扮
 - `choisir soigneusement` - 仔细挑选；认真选择
 - `redescendre` - 重新下去；再下楼
+- `franchir` - 跨过；越过；通过
 
 ### Vie scolaire et relations
 
@@ -104,4 +111,5 @@ Added 69 cards from the user's marked French reading pages.
 - `rougir` - 脸红；涨红
 - `la langue` - 舌头；语言
 - `le palais` - 上颚；腭
+- `le corps` - 身体；躯体
 
