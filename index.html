@@ -149,17 +149,13 @@
 
     .flash-wrap {
       min-height: 520px;
-      perspective: 1200px;
     }
 
     .flash-card {
       position: relative;
       height: 100%;
       min-height: 520px;
-      transform-style: preserve-3d;
-      transform: translate3d(0, 0, 0);
-      transition: transform .2s ease;
-      will-change: transform;
+      transition: height .16s ease, min-height .16s ease;
       contain: layout paint style;
       border: 0;
       background: transparent;
@@ -172,10 +168,6 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    .flash-card.flipped {
-      transform: translate3d(0, 0, 0) rotateY(180deg);
-    }
-
     .flash-card.no-transition {
       transition: none;
     }
@@ -184,7 +176,6 @@
       position: absolute;
       inset: 0;
       overflow: visible;
-      backface-visibility: hidden;
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 10px;
@@ -194,16 +185,37 @@
       align-content: start;
       gap: 16px;
       contain: layout paint style;
-    }
-
-    .back {
-      transform: rotateY(180deg) translateZ(1px);
+      opacity: 1;
+      transform: translateY(0);
+      transition: opacity .16s ease, transform .16s ease;
+      will-change: opacity, transform;
     }
 
     .front {
       align-content: center;
       min-height: 520px;
-      transform: translateZ(1px);
+    }
+
+    .back {
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(8px);
+    }
+
+    .flash-card.flipped .front {
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(-8px);
+    }
+
+    .flash-card.flipped .back {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+
+    .flash-card.no-transition .face {
+      transition: none;
     }
 
     .front-stack {
