@@ -27,6 +27,7 @@ Each card must contain:
 - `definitionFr`
 - `collocations`
 - `example`
+- `exampleZh`
 - `useCase`
 - `sourcePage`
 

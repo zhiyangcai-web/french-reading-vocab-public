@@ -63,6 +63,8 @@ function buildCardsMarkdown(data) {
       lines.push(card.example);
       lines.push("```");
       lines.push("");
+      lines.push(`例句翻译: ${card.exampleZh}`);
+      lines.push("");
       lines.push(`使用场景: ${card.useCase}`);
       lines.push("");
     });
@@ -77,8 +79,8 @@ function buildTableMarkdown(data) {
     "",
     `Updated: ${data.updated}`,
     "",
-    "| Theme | Expression | 中文 | POS | Collocations | Example | Source |",
-    "|---|---|---|---|---|---|---|"
+    "| Theme | Expression | 中文 | POS | Collocations | Example | 例句翻译 | Source |",
+    "|---|---|---|---|---|---|---|---|"
   ];
 
   for (const card of data.cards) {
@@ -89,6 +91,7 @@ function buildTableMarkdown(data) {
       card.pos,
       card.collocations.join(" / "),
       card.example,
+      card.exampleZh,
       card.sourcePage
     ].map(escapeCell).join(" | ").replace(/^/, "| ").replace(/$/, " |"));
   }
@@ -148,6 +151,7 @@ function validateData(data, validateFiles) {
     "definitionFr",
     "collocations",
     "example",
+    "exampleZh",
     "useCase",
     "sourcePage"
   ];
@@ -160,7 +164,7 @@ function validateData(data, validateFiles) {
     if (ids.has(card.id)) throw new Error(`${label} has duplicate id ${card.id}.`);
     ids.add(card.id);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(card.date)) throw new Error(`${label} date must use YYYY-MM-DD.`);
-    for (const field of ["batch", "theme", "expression", "pos", "zh", "definitionFr", "example", "useCase", "sourcePage"]) {
+    for (const field of ["batch", "theme", "expression", "pos", "zh", "definitionFr", "example", "exampleZh", "useCase", "sourcePage"]) {
       if (typeof card[field] !== "string" || !card[field].trim()) throw new Error(`${label} ${field} must be a non-empty string.`);
     }
     if (!Array.isArray(card.tags) || card.tags.length === 0) throw new Error(`${label} tags must be a non-empty array.`);

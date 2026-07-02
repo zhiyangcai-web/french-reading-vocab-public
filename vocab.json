@@ -24,7 +24,8 @@
       ],
       "example": "Elle s’est déchaussée, marche en collants.",
       "useCase": "描述衣着、室内状态、日常动作。",
-      "sourcePage": "page 9"
+      "sourcePage": "page 9",
+      "exampleZh": "她脱了鞋，穿着连裤袜走路。"
     },
     {
       "id": "p9-gants-caoutchouc",
@@ -47,7 +48,8 @@
       ],
       "example": "Ils tombent sur Lorraine, la mère de Connell, qui retire ses gants de caoutchouc.",
       "useCase": "描述家务、清洁、保护手部的用品。",
-      "sourcePage": "page 9"
+      "sourcePage": "page 9",
+      "exampleZh": "他们遇见了洛兰，Connell 的母亲，她正在摘下橡胶手套。"
     },
     {
       "id": "p9-caoutchouc",
@@ -70,7 +72,8 @@
       ],
       "example": "Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier.",
       "useCase": "描述材料、家务用品、鞋底或防水物品。",
-      "sourcePage": "page 9"
+      "sourcePage": "page 9",
+      "exampleZh": "洛兰仔细叠好橡胶手套，把它们收在水槽下面。"
     },
     {
       "id": "p9-paillasse",
@@ -93,7 +96,8 @@
       ],
       "example": "Marianne s’assoit d’un bond sur la paillasse.",
       "useCase": "描述厨房、实验室或工作台面。",
-      "sourcePage": "page 9"
+      "sourcePage": "page 9",
+      "exampleZh": "玛丽安一下子坐到厨房台面上。"
     },
     {
       "id": "p10-tablier",
@@ -116,7 +120,8 @@
       ],
       "example": "Lorraine, qui détachait son tablier de cuisine, interrompt son geste.",
       "useCase": "描述厨房、家务、手工劳动时的穿着。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "洛兰正解着厨房围裙，动作停了下来。"
     },
     {
       "id": "p10-seche-linge",
@@ -139,7 +144,8 @@
       ],
       "example": "Il faut juste que j’aille vider le sèche-linge.",
       "useCase": "描述洗衣、家务和家用电器。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "我只是得去清空一下烘干机。"
     },
     {
       "id": "p10-cuillere",
@@ -162,7 +168,8 @@
       ],
       "example": "Il s’adosse contre le réfrigérateur et la regarde lécher la cuillère.",
       "useCase": "描述厨房、吃东西、搅拌等动作。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "他靠在冰箱上，看着她舔勺子。"
     },
     {
       "id": "p10-manoir",
@@ -185,7 +192,8 @@
       ],
       "example": "On sait que Marianne habite le manoir blanc avec une grande allée.",
       "useCase": "描述住宅、阶层差异、场景背景。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "大家都知道玛丽安住在那座有一条大车道的白色庄园里。"
     },
     {
       "id": "p10-epaules",
@@ -208,7 +216,8 @@
       ],
       "example": "Elle hausse les épaules.",
       "useCase": "描述身体部位和“耸肩”这种态度动作。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "她耸了耸肩。"
     },
     {
       "id": "p10-culpabiliser",
@@ -231,7 +240,8 @@
       ],
       "example": "Ne culpabilise pas.",
       "useCase": "安慰别人、表达负罪感、讨论心理压力。",
-      "sourcePage": "page 10"
+      "sourcePage": "page 10",
+      "exampleZh": "别内疚。"
     },
     {
       "id": "p11-semelles",
@@ -254,7 +264,8 @@
       ],
       "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
       "useCase": "描述鞋子、穿着、外貌细节。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "她穿着一双难看的平底鞋，鞋底很厚。"
     },
     {
       "id": "p11-epaisses",
@@ -277,7 +288,8 @@
       ],
       "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
       "useCase": "描述衣物、材料、头发、书本等厚度或密度。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "她穿着一双难看的平底鞋，鞋底很厚。"
     },
     {
       "id": "p11-jambes",
@@ -300,7 +312,8 @@
       ],
       "example": "Il paraît qu’elle ne se rase pas les jambes.",
       "useCase": "描述身体、外貌或日常护理。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "据说她不刮腿毛。"
     },
     {
       "id": "p11-renverser",
@@ -323,7 +336,8 @@
       ],
       "example": "Connell a entendu dire qu’elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
       "useCase": "描述小事故、弄脏衣服、打翻饮料。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "Connell 听说她把巧克力冰淇淋洒在了自己衣服上，就在学校食堂。"
     },
     {
       "id": "p11-refectoire",
@@ -346,7 +360,8 @@
       ],
       "example": "Elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
       "useCase": "描述学校、寄宿制或集体生活里的用餐地点。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "她曾把巧克力冰淇淋洒在自己衣服上，地点是学校食堂。"
     },
     {
       "id": "p11-lavabo",
@@ -369,7 +384,8 @@
       ],
       "example": "Elle était allée aux toilettes des filles retirer son chemisier pour le frotter dans le lavabo.",
       "useCase": "描述洗手间、清洗衣物、生活场景。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "她去了女生厕所脱下衬衣，把它放在洗手池里搓洗。"
     },
     {
       "id": "p11-bahut",
@@ -392,7 +408,8 @@
       ],
       "example": "Si elle voulait, elle pourrait ouvertement saluer Connell au bahut.",
       "useCase": "口语里谈学校生活；正式写作慎用。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "如果她愿意，她完全可以在学校公开跟 Connell 打招呼。"
     },
     {
       "id": "p11-aprem",
@@ -415,7 +432,8 @@
       ],
       "example": "À cet aprèm, pourrait-elle lui dire devant tout le monde.",
       "useCase": "口语聊天、短信、非正式叙述。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "“下午见，”她也许可以当着所有人的面对他说。"
     },
     {
       "id": "p11-mettre-position",
@@ -438,7 +456,8 @@
       ],
       "example": "Ça le mettrait sans aucun doute dans une position inconfortable.",
       "useCase": "描述社交尴尬、公开压力、人际关系中的不自在。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "那毫无疑问会让他处在一种很不舒服的境地。"
     },
     {
       "id": "p11-se-delecter",
@@ -461,7 +480,8 @@
       ],
       "example": "C’est généralement le genre de trucs dont elle se délecte.",
       "useCase": "描述某人享受八卦、尴尬场面或某种乐趣。",
-      "sourcePage": "page 11"
+      "sourcePage": "page 11",
+      "exampleZh": "这通常正是她会乐在其中的那类事情。"
     },
     {
       "id": "p12-crane",
@@ -484,7 +504,8 @@
       ],
       "example": "Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne.",
       "useCase": "描述头部、身体感受或心理穿透感。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "她仿佛能透过 Connell 的眼睛，一直看到他头脑深处。"
     },
     {
       "id": "p12-hocher",
@@ -507,7 +528,8 @@
       ],
       "example": "Il hoche la tête, regarde autour de lui.",
       "useCase": "叙述人物反应、沉默回答或尴尬场景。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "他点点头，环顾四周。"
     },
     {
       "id": "p12-enfoncer",
@@ -530,7 +552,8 @@
       ],
       "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
       "useCase": "描述细小动作、紧张时的身体动作或物体移动。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "他把鞋尖塞进地砖之间的一条缝里。"
     },
     {
       "id": "p12-dalles",
@@ -553,7 +576,8 @@
       ],
       "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
       "useCase": "描述地面、房屋细节或人物视线/动作落点。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "他把鞋尖塞进地砖之间的一条缝里。"
     },
     {
       "id": "p12-se-frotter",
@@ -576,7 +600,8 @@
       ],
       "example": "Il se frotte le cou.",
       "useCase": "描述紧张、尴尬、疲惫时的身体动作。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "他揉了揉脖子。"
     },
     {
       "id": "p12-egard",
@@ -599,7 +624,8 @@
       ],
       "example": "Les sentiments qu’il éprouve à son égard sont au centre de toutes les conversations au lycée.",
       "useCase": "描述态度、感情、评价对象；写作中很实用。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "他对她的感情成了学校里所有谈话的中心。"
     },
     {
       "id": "p12-noeud-cravate",
@@ -622,7 +648,8 @@
       ],
       "example": "Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire dans la vie, et a même une fois touché le nœud de cravate de son uniforme.",
       "useCase": "描述服装细节、制服、紧张时的小动作。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "她下课后把他留下来，有时是为了讨论他将来想做什么，甚至有一次还碰了他校服领带的结。"
     },
     {
       "id": "p12-solliciter",
@@ -645,7 +672,8 @@
       ],
       "example": "Il reste assis en silence pendant qu’elle lui parle et le sollicite.",
       "useCase": "描述请求帮助、被人找、社交互动或工作沟通。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "她跟他说话、想引起他的回应时，他一直沉默地坐着。"
     },
     {
       "id": "p12-gene",
@@ -668,7 +696,8 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
       "useCase": "描述社交尴尬、羞怯、被困住的心理状态。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "上课时，他太尴尬又烦躁，无法专心听课。"
     },
     {
       "id": "p12-agace",
@@ -691,7 +720,8 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
       "useCase": "描述轻微恼怒、不耐烦、被打扰后的情绪。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "上课时，他太尴尬又烦躁，无法专心听课。"
     },
     {
       "id": "p12-scruter",
@@ -714,7 +744,8 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scrute les pages de son manuel.",
       "useCase": "描述认真看、为了逃避尴尬而盯着某物、观察细节。",
-      "sourcePage": "page 12"
+      "sourcePage": "page 12",
+      "exampleZh": "上课时，他太尴尬又烦躁，无法专心听课，只能盯着课本页看。"
     },
     {
       "id": "p13-charrier",
@@ -737,7 +768,8 @@
       ],
       "example": "On me charrie toujours sur le fait qu’elle me plaît ou je sais pas quoi, dit-il.",
       "useCase": "用于同学、朋友之间调侃、开玩笑，语气比较口语。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "“他们总拿她喜欢我这件事之类的来调侃我，”他说。"
     },
     {
       "id": "p13-impression",
@@ -760,7 +792,8 @@
       ],
       "example": "J’en ai pas l’impression.",
       "useCase": "用于回应别人判断时，表示自己的感觉并不是这样。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "我不这么觉得。"
     },
     {
       "id": "p13-sessuyer",
@@ -783,7 +816,8 @@
       ],
       "example": "Il s’essuie les mains de haut en bas, sans réfléchir, sur la chemise de son uniforme.",
       "useCase": "用于描述擦手、擦脸等具体动作，也可以写出紧张时无意识的小动作。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "他不假思索地把双手在校服衬衫上从上到下擦了一遍。"
     },
     {
       "id": "p13-elans",
@@ -806,7 +840,8 @@
       ],
       "example": "Tout le monde est si convaincu de son attirance pour Mlle Neary qu’il doute parfois de ses propres élans.",
       "useCase": "用于描述不是经过理性计划，而是从内心冒出来的感情或冲动。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "所有人都那么确信他被 Neary 小姐吸引，以至于他有时也怀疑自己的内心冲动。"
     },
     {
       "id": "p13-au-dela",
@@ -829,7 +864,8 @@
       ],
       "example": "Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?",
       "useCase": "用于表达超过某个范围、认知、程度或界限。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "如果在某种程度上，在他自己的感知之外或还没达到他能察觉的范围，她真的吸引着他呢？"
     },
     {
       "id": "p13-en-deca",
@@ -852,7 +888,8 @@
       ],
       "example": "Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?",
       "useCase": "常和 au-delà de 对照使用，表达低于某个范围或程度。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "如果在某种程度上，在他自己的感知之外或还没达到他能察觉的范围，她真的吸引着他呢？"
     },
     {
       "id": "p13-cense",
@@ -875,7 +912,8 @@
       ],
       "example": "Il ne sait même pas ce qu’on est censé ressentir quand quelqu’un nous attire.",
       "useCase": "用于表达“按理说应该怎样”，也可以带出困惑、期待或压力。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "他甚至不知道，当某个人吸引我们时，我们按理应该感受到什么。"
     },
     {
       "id": "p13-nausee",
@@ -898,7 +936,8 @@
       ],
       "example": "La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?",
       "useCase": "用于描述身体不适，也可以写由紧张、厌恶或焦虑引起的反应。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "当 Neary 小姐俯身靠近他的课桌时袭来的恶心感，难道是性兴奋的迹象吗？"
     },
     {
       "id": "p13-pupitre",
@@ -921,7 +960,8 @@
       ],
       "example": "La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?",
       "useCase": "用于学校、课堂场景，描述学生或老师附近的桌面。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "当 Neary 小姐俯身靠近他的课桌时袭来的恶心感，难道是性兴奋的迹象吗？"
     },
     {
       "id": "p13-plaisanter",
@@ -944,7 +984,8 @@
       ],
       "example": "Non, tu plaisantes. Surtout pas.",
       "useCase": "用于判断别人是不是在开玩笑，也可用于缓和语气或否认认真意图。",
-      "sourcePage": "page 13"
+      "sourcePage": "page 13",
+      "exampleZh": "不，你在开玩笑吧。千万别。"
     }
   ]
 }
