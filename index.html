@@ -42,6 +42,7 @@
       border-radius: 8px;
       background: var(--panel);
       color: var(--ink);
+      touch-action: manipulation;
     }
 
     button {
@@ -156,23 +157,33 @@
       height: 100%;
       min-height: 520px;
       transform-style: preserve-3d;
-      transition: transform .24s ease;
+      transform: translate3d(0, 0, 0);
+      transition: transform .2s ease;
+      will-change: transform;
+      contain: layout paint style;
       border: 0;
       background: transparent;
       padding: 0;
       display: block;
       width: 100%;
       text-align: left;
+      cursor: pointer;
+      touch-action: pan-y;
+      -webkit-tap-highlight-color: transparent;
     }
 
     .flash-card.flipped {
-      transform: rotateY(180deg);
+      transform: translate3d(0, 0, 0) rotateY(180deg);
+    }
+
+    .flash-card.no-transition {
+      transition: none;
     }
 
     .face {
       position: absolute;
       inset: 0;
-      overflow: auto;
+      overflow: visible;
       backface-visibility: hidden;
       background: var(--panel);
       border: 1px solid var(--line);
@@ -182,15 +193,17 @@
       display: grid;
       align-content: start;
       gap: 16px;
+      contain: layout paint style;
     }
 
     .back {
-      transform: rotateY(180deg);
+      transform: rotateY(180deg) translateZ(1px);
     }
 
     .front {
       align-content: center;
       min-height: 520px;
+      transform: translateZ(1px);
     }
 
     .front-stack {
@@ -420,6 +433,12 @@
         flex: 1 1 150px;
       }
     }
+
+    @media (prefers-reduced-motion: reduce) {
+      .flash-card {
+        transition: none;
+      }
+    }
   </style>
 </head>
 <body>
@@ -459,7 +478,7 @@
 
     <section class="study-grid">
       <div class="flash-wrap">
-        <button id="card" class="flash-card" type="button" aria-label="Flashcard">
+        <div id="card" class="flash-card" role="button" tabindex="0" aria-label="Flashcard">
           <article class="face front">
             <div class="front-stack">
               <div id="frontTheme" class="pill"></div>
@@ -489,7 +508,7 @@
               <div id="useCase" class="body-text"></div>
             </div>
           </article>
-        </button>
+        </div>
       </div>
 
       <aside class="source-panel">
@@ -532,6 +551,9 @@
     let flipped = false;
     let known = new Set(JSON.parse(localStorage.getItem(storage.known) || "[]"));
     let starred = new Set(JSON.parse(localStorage.getItem(storage.starred) || "[]"));
+    let pointerStartX = 0;
+    let pointerStartY = 0;
+    let pointerMoved = false;
 
     const els = {
       updated: document.getElementById("updated"),
@@ -542,6 +564,9 @@
       statusSelect: document.getElementById("statusSelect"),
       progress: document.getElementById("progress"),
       card: document.getElementById("card"),
+      flashWrap: document.querySelector(".flash-wrap"),
+      frontFace: document.querySelector(".face.front"),
+      backFace: document.querySelector(".face.back"),
       frontTheme: document.getElementById("frontTheme"),
       frontExpr: document.getElementById("frontExpr"),
       frontPos: document.getElementById("frontPos"),
@@ -642,9 +667,32 @@
       return filtered[index];
     }
 
+    function setFlipped(value, animate = true) {
+      flipped = value;
+      if (!animate) els.card.classList.add("no-transition");
+      els.card.classList.toggle("flipped", flipped);
+      els.card.setAttribute("aria-pressed", String(flipped));
+      syncCardHeight();
+      if (!animate) {
+        requestAnimationFrame(() => els.card.classList.remove("no-transition"));
+      }
+    }
+
+    function syncCardHeight() {
+      requestAnimationFrame(() => {
+        const minHeight = window.matchMedia("(max-width: 560px)").matches ? 560 : 520;
+        const activeFace = flipped ? els.backFace : els.frontFace;
+        const measured = activeFace ? activeFace.scrollHeight : minHeight;
+        const height = Math.max(minHeight, Math.ceil(measured));
+        els.card.style.height = `${height}px`;
+        els.card.style.minHeight = `${height}px`;
+        els.flashWrap.style.minHeight = `${height}px`;
+      });
+    }
+
     function render() {
       const card = currentCard();
-      els.card.classList.toggle("flipped", flipped);
+      setFlipped(flipped, false);
 
       if (!card) {
         els.progress.textContent = "0 / 0";
@@ -724,20 +772,19 @@
 
     function move(delta) {
       index += delta;
-      flipped = false;
+      setFlipped(false, false);
       render();
     }
 
     function shuffle() {
       if (!filtered.length) return;
       index = Math.floor(Math.random() * filtered.length);
-      flipped = false;
+      setFlipped(false, false);
       render();
     }
 
     function flip() {
-      flipped = !flipped;
-      render();
+      setFlipped(!flipped, true);
     }
 
     function saveKnown() {
@@ -798,7 +845,24 @@
     document.getElementById("nextBtn").addEventListener("click", () => move(1));
     document.getElementById("flipBtn").addEventListener("click", flip);
     document.getElementById("shuffleBtn").addEventListener("click", shuffle);
-    els.card.addEventListener("click", flip);
+    els.card.addEventListener("pointerdown", event => {
+      pointerStartX = event.clientX;
+      pointerStartY = event.clientY;
+      pointerMoved = false;
+    });
+    els.card.addEventListener("pointermove", event => {
+      if (Math.abs(event.clientX - pointerStartX) > 8 || Math.abs(event.clientY - pointerStartY) > 8) {
+        pointerMoved = true;
+      }
+    });
+    els.card.addEventListener("click", event => {
+      if (pointerMoved) {
+        event.preventDefault();
+        pointerMoved = false;
+        return;
+      }
+      flip();
+    });
     els.starBtn.addEventListener("click", toggleStarred);
     els.knownBtn.addEventListener("click", toggleKnown);
     els.resetBtn.addEventListener("click", resetProgress);
@@ -813,14 +877,21 @@
     els.notes.addEventListener("input", () => localStorage.setItem(storage.notes, els.notes.value));
 
     window.addEventListener("keydown", event => {
-      if (event.target === els.notes) return;
+      const interactive = ["BUTTON", "SELECT", "TEXTAREA", "INPUT"].includes(event.target.tagName);
+      if (event.target === els.notes || (interactive && event.target !== els.card)) return;
       if (event.key === "ArrowRight") move(1);
       if (event.key === "ArrowLeft") move(-1);
       if (event.key === " ") {
         event.preventDefault();
         flip();
       }
+      if (event.key === "Enter" && event.target === els.card) {
+        event.preventDefault();
+        flip();
+      }
     });
+
+    window.addEventListener("resize", syncCardHeight);
 
     loadCards().catch(error => {
       els.updated.textContent = "Failed to load vocab.json. Run this folder through a local server.";
