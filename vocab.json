@@ -1,12 +1,12 @@
 {
   "updated": "2026-07-02",
   "title": "French Reading Flashcards",
-  "source": "User-provided French homework photos, July 2026",
+  "source": "User-provided French homework excerpts, July 2026",
   "cards": [
     {
       "id": "p9-collants",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "vetements",
@@ -24,12 +24,12 @@
       ],
       "example": "Elle s’est déchaussée, marche en collants.",
       "useCase": "描述衣着、室内状态、日常动作。",
-      "sourcePage": "photo 1, page 9"
+      "sourcePage": "page 9"
     },
     {
       "id": "p9-gants-caoutchouc",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "menage",
@@ -47,12 +47,12 @@
       ],
       "example": "Ils tombent sur Lorraine, la mère de Connell, qui retire ses gants de caoutchouc.",
       "useCase": "描述家务、清洁、保护手部的用品。",
-      "sourcePage": "photo 1, page 9"
+      "sourcePage": "page 9"
     },
     {
       "id": "p9-caoutchouc",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Matières et objets",
       "tags": [
         "matiere",
@@ -70,12 +70,12 @@
       ],
       "example": "Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier.",
       "useCase": "描述材料、家务用品、鞋底或防水物品。",
-      "sourcePage": "photo 1, page 9"
+      "sourcePage": "page 9"
     },
     {
       "id": "p9-paillasse",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Maison et lieux",
       "tags": [
         "cuisine",
@@ -93,12 +93,12 @@
       ],
       "example": "Marianne s’assoit d’un bond sur la paillasse.",
       "useCase": "描述厨房、实验室或工作台面。",
-      "sourcePage": "photo 1, page 9"
+      "sourcePage": "page 9"
     },
     {
       "id": "p10-tablier",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "cuisine",
@@ -116,12 +116,12 @@
       ],
       "example": "Lorraine, qui détachait son tablier de cuisine, interrompt son geste.",
       "useCase": "描述厨房、家务、手工劳动时的穿着。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p10-seche-linge",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Maison et lieux",
       "tags": [
         "linge",
@@ -139,12 +139,12 @@
       ],
       "example": "Il faut juste que j’aille vider le sèche-linge.",
       "useCase": "描述洗衣、家务和家用电器。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p10-cuillere",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "cuisine",
@@ -162,12 +162,12 @@
       ],
       "example": "Il s’adosse contre le réfrigérateur et la regarde lécher la cuillère.",
       "useCase": "描述厨房、吃东西、搅拌等动作。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p10-manoir",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Maison et lieux",
       "tags": [
         "logement",
@@ -185,12 +185,12 @@
       ],
       "example": "On sait que Marianne habite le manoir blanc avec une grande allée.",
       "useCase": "描述住宅、阶层差异、场景背景。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p10-epaules",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Gestes et attitudes",
       "tags": [
         "corps",
@@ -208,12 +208,12 @@
       ],
       "example": "Elle hausse les épaules.",
       "useCase": "描述身体部位和“耸肩”这种态度动作。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p10-culpabiliser",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "sentiment",
@@ -231,12 +231,12 @@
       ],
       "example": "Ne culpabilise pas.",
       "useCase": "安慰别人、表达负罪感、讨论心理压力。",
-      "sourcePage": "photo 2, page 10"
+      "sourcePage": "page 10"
     },
     {
       "id": "p11-semelles",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "chaussures",
@@ -254,12 +254,12 @@
       ],
       "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
       "useCase": "描述鞋子、穿着、外貌细节。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-epaisses",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Description physique et objets",
       "tags": [
         "adjectif",
@@ -277,12 +277,12 @@
       ],
       "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
       "useCase": "描述衣物、材料、头发、书本等厚度或密度。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-jambes",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Description physique et objets",
       "tags": [
         "corps",
@@ -300,12 +300,12 @@
       ],
       "example": "Il paraît qu’elle ne se rase pas les jambes.",
       "useCase": "描述身体、外貌或日常护理。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-renverser",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Actions du quotidien",
       "tags": [
         "accident",
@@ -323,12 +323,12 @@
       ],
       "example": "Connell a entendu dire qu’elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
       "useCase": "描述小事故、弄脏衣服、打翻饮料。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-refectoire",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vie scolaire et relations",
       "tags": [
         "ecole",
@@ -346,12 +346,12 @@
       ],
       "example": "Elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
       "useCase": "描述学校、寄宿制或集体生活里的用餐地点。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-lavabo",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Maison et lieux",
       "tags": [
         "salle-de-bain",
@@ -369,12 +369,12 @@
       ],
       "example": "Elle était allée aux toilettes des filles retirer son chemisier pour le frotter dans le lavabo.",
       "useCase": "描述洗手间、清洗衣物、生活场景。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-bahut",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vie scolaire et relations",
       "tags": [
         "argot",
@@ -392,12 +392,12 @@
       ],
       "example": "Si elle voulait, elle pourrait ouvertement saluer Connell au bahut.",
       "useCase": "口语里谈学校生活；正式写作慎用。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-aprem",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vie scolaire et relations",
       "tags": [
         "familier",
@@ -415,12 +415,12 @@
       ],
       "example": "À cet aprèm, pourrait-elle lui dire devant tout le monde.",
       "useCase": "口语聊天、短信、非正式叙述。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-mettre-position",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "gene",
@@ -438,12 +438,12 @@
       ],
       "example": "Ça le mettrait sans aucun doute dans une position inconfortable.",
       "useCase": "描述社交尴尬、公开压力、人际关系中的不自在。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p11-se-delecter",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "plaisir",
@@ -461,12 +461,12 @@
       ],
       "example": "C’est généralement le genre de trucs dont elle se délecte.",
       "useCase": "描述某人享受八卦、尴尬场面或某种乐趣。",
-      "sourcePage": "photo 2, page 11"
+      "sourcePage": "page 11"
     },
     {
       "id": "p12-crane",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Description physique et objets",
       "tags": [
         "corps",
@@ -484,12 +484,12 @@
       ],
       "example": "Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne.",
       "useCase": "描述头部、身体感受或心理穿透感。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-hocher",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Gestes et attitudes",
       "tags": [
         "geste",
@@ -507,12 +507,12 @@
       ],
       "example": "Il hoche la tête, regarde autour de lui.",
       "useCase": "叙述人物反应、沉默回答或尴尬场景。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-enfoncer",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Actions du quotidien",
       "tags": [
         "geste",
@@ -530,12 +530,12 @@
       ],
       "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
       "useCase": "描述细小动作、紧张时的身体动作或物体移动。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-dalles",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Maison et lieux",
       "tags": [
         "sol",
@@ -553,12 +553,12 @@
       ],
       "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
       "useCase": "描述地面、房屋细节或人物视线/动作落点。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-se-frotter",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Gestes et attitudes",
       "tags": [
         "geste",
@@ -576,12 +576,12 @@
       ],
       "example": "Il se frotte le cou.",
       "useCase": "描述紧张、尴尬、疲惫时的身体动作。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-egard",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "relation",
@@ -599,12 +599,12 @@
       ],
       "example": "Les sentiments qu’il éprouve à son égard sont au centre de toutes les conversations au lycée.",
       "useCase": "描述态度、感情、评价对象；写作中很实用。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-noeud-cravate",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vêtements et objets du quotidien",
       "tags": [
         "vetements",
@@ -622,12 +622,12 @@
       ],
       "example": "Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire dans la vie, et a même une fois touché le nœud de cravate de son uniforme.",
       "useCase": "描述服装细节、制服、紧张时的小动作。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-solliciter",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Vie scolaire et relations",
       "tags": [
         "relation",
@@ -645,12 +645,12 @@
       ],
       "example": "Il reste assis en silence pendant qu’elle lui parle et le sollicite.",
       "useCase": "描述请求帮助、被人找、社交互动或工作沟通。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-gene",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "sentiment",
@@ -668,12 +668,12 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
       "useCase": "描述社交尴尬、羞怯、被困住的心理状态。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-agace",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Sentiments et jugement",
       "tags": [
         "sentiment",
@@ -691,12 +691,12 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
       "useCase": "描述轻微恼怒、不耐烦、被打扰后的情绪。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
     },
     {
       "id": "p12-scruter",
       "date": "2026-07-02",
-      "batch": "Janvier 2011 - photos 1-3",
+      "batch": "Janvier 2011 - pages 9-12",
       "theme": "Gestes et attitudes",
       "tags": [
         "regard",
@@ -714,7 +714,237 @@
       ],
       "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scrute les pages de son manuel.",
       "useCase": "描述认真看、为了逃避尴尬而盯着某物、观察细节。",
-      "sourcePage": "photo 3"
+      "sourcePage": "page 12"
+    },
+    {
+      "id": "p13-charrier",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "relation",
+        "familier",
+        "jugement"
+      ],
+      "expression": "charrier quelqu’un",
+      "pos": "verbe familier",
+      "zh": "拿某人开玩笑；调侃某人",
+      "definitionFr": "Taquiner ou se moquer gentiment de quelqu’un, souvent dans un registre familier.",
+      "collocations": [
+        "charrier quelqu’un sur quelque chose",
+        "se faire charrier",
+        "arrêter de charrier quelqu’un"
+      ],
+      "example": "On me charrie toujours sur le fait qu’elle me plaît ou je sais pas quoi, dit-il.",
+      "useCase": "用于同学、朋友之间调侃、开玩笑，语气比较口语。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-impression",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "opinion",
+        "perception",
+        "oral"
+      ],
+      "expression": "J’en ai pas l’impression.",
+      "pos": "phrase",
+      "zh": "我不这么觉得；我没有这种感觉",
+      "definitionFr": "Formule orale pour dire que quelque chose ne correspond pas à ce que l’on perçoit ou ressent.",
+      "collocations": [
+        "avoir l’impression que",
+        "ne pas en avoir l’impression",
+        "donner l’impression de"
+      ],
+      "example": "J’en ai pas l’impression.",
+      "useCase": "用于回应别人判断时，表示自己的感觉并不是这样。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-sessuyer",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "geste",
+        "corps",
+        "quotidien"
+      ],
+      "expression": "s’essuyer",
+      "pos": "verbe pronominal",
+      "zh": "擦干；擦拭自己身体的一部分",
+      "definitionFr": "Enlever l’eau, la sueur ou une saleté de son corps avec un tissu, une serviette ou un vêtement.",
+      "collocations": [
+        "s’essuyer les mains",
+        "s’essuyer le visage",
+        "s’essuyer avec une serviette"
+      ],
+      "example": "Il s’essuie les mains de haut en bas, sans réfléchir, sur la chemise de son uniforme.",
+      "useCase": "用于描述擦手、擦脸等具体动作，也可以写出紧张时无意识的小动作。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-elans",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "desir",
+        "interieur"
+      ],
+      "expression": "un élan",
+      "pos": "nom masculin",
+      "zh": "冲动；一阵情感；内心推动",
+      "definitionFr": "Mouvement intérieur spontané qui pousse quelqu’un vers une émotion, une envie ou une action.",
+      "collocations": [
+        "un élan de tendresse",
+        "ses propres élans",
+        "un élan spontané"
+      ],
+      "example": "Tout le monde est si convaincu de son attirance pour Mlle Neary qu’il doute parfois de ses propres élans.",
+      "useCase": "用于描述不是经过理性计划，而是从内心冒出来的感情或冲动。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-au-dela",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Expression et nuance",
+      "tags": [
+        "nuance",
+        "limite",
+        "abstrait"
+      ],
+      "expression": "au-delà de",
+      "pos": "locution prépositive",
+      "zh": "超出；在……之外；超过",
+      "definitionFr": "Indique ce qui dépasse une limite, un niveau ou un cadre donné.",
+      "collocations": [
+        "au-delà de ses attentes",
+        "au-delà de sa perception",
+        "aller au-delà de quelque chose"
+      ],
+      "example": "Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?",
+      "useCase": "用于表达超过某个范围、认知、程度或界限。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-en-deca",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Expression et nuance",
+      "tags": [
+        "nuance",
+        "limite",
+        "abstrait"
+      ],
+      "expression": "en deçà de",
+      "pos": "locution prépositive",
+      "zh": "低于；未达到；在……以内",
+      "definitionFr": "Indique ce qui reste avant une limite ou n’atteint pas un certain niveau.",
+      "collocations": [
+        "rester en deçà de",
+        "en deçà des attentes",
+        "en deçà de sa perception"
+      ],
+      "example": "Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?",
+      "useCase": "常和 au-delà de 对照使用，表达低于某个范围或程度。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-cense",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Expression et nuance",
+      "tags": [
+        "obligation",
+        "attente",
+        "oral"
+      ],
+      "expression": "être censé faire quelque chose",
+      "pos": "expression verbale",
+      "zh": "按理应该做某事；被认为应该做某事",
+      "definitionFr": "Être supposé faire quelque chose selon une règle, une attente ou une idée générale.",
+      "collocations": [
+        "être censé savoir",
+        "être censé répondre",
+        "ce qu’on est censé ressentir"
+      ],
+      "example": "Il ne sait même pas ce qu’on est censé ressentir quand quelqu’un nous attire.",
+      "useCase": "用于表达“按理说应该怎样”，也可以带出困惑、期待或压力。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-nausee",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Corps et sensations",
+      "tags": [
+        "corps",
+        "malaise",
+        "sensation"
+      ],
+      "expression": "la nausée",
+      "pos": "nom féminin",
+      "zh": "恶心；想吐的感觉",
+      "definitionFr": "Sensation désagréable qui donne envie de vomir.",
+      "collocations": [
+        "avoir la nausée",
+        "être pris de nausée",
+        "une nausée soudaine"
+      ],
+      "example": "La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?",
+      "useCase": "用于描述身体不适，也可以写由紧张、厌恶或焦虑引起的反应。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-pupitre",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "ecole",
+        "objet",
+        "classe"
+      ],
+      "expression": "un pupitre",
+      "pos": "nom masculin",
+      "zh": "课桌；书桌；讲台式桌面",
+      "definitionFr": "Petit bureau ou table de travail, surtout dans un contexte scolaire.",
+      "collocations": [
+        "se pencher sur son pupitre",
+        "s’asseoir à son pupitre",
+        "poser un cahier sur le pupitre"
+      ],
+      "example": "La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?",
+      "useCase": "用于学校、课堂场景，描述学生或老师附近的桌面。",
+      "sourcePage": "page 13"
+    },
+    {
+      "id": "p13-plaisanter",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 13",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "oral",
+        "interaction",
+        "relation"
+      ],
+      "expression": "plaisanter",
+      "pos": "verbe",
+      "zh": "开玩笑；说笑",
+      "definitionFr": "Dire quelque chose pour rire, sans intention sérieuse.",
+      "collocations": [
+        "tu plaisantes",
+        "je plaisante",
+        "ne pas plaisanter avec quelque chose"
+      ],
+      "example": "Non, tu plaisantes. Surtout pas.",
+      "useCase": "用于判断别人是不是在开玩笑，也可用于缓和语气或否认认真意图。",
+      "sourcePage": "page 13"
     }
   ]
 }

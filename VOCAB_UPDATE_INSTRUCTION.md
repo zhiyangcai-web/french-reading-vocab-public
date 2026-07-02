@@ -30,4 +30,4 @@ Each card must contain:
 - `useCase`
 - `sourcePage`
 
-Do not add generic filler cards. If an underlined word is partly hidden or not readable, ask for a clearer photo before adding it. Do not commit source photos to this public repository.
+Do not add generic filler cards. If an underlined word is partly hidden or not readable, ask for a clearer page image before adding it. Do not commit source page images to this public repository.

@@ -1,6 +1,6 @@
 # French Reading Vocabulary Flashcards
 
-Mobile-first flashcard app for the underlined words in the user's French reading homework photos.
+Mobile-first flashcard app for the underlined words in the user's French reading homework excerpts.
 
 Local preview:
 
@@ -39,4 +39,4 @@ node scripts/export_active_vocabulary.js validate
 
 ## Update Rules
 
-Add only words or expressions the user marked for active review. Keep examples short and source-based: use the sentence around the marked word, not full-page transcription. Do not commit source photos to this public repository.
+Add only words or expressions the user marked for active review. Keep examples short and source-based: use the sentence around the marked word, not full-page transcription. Do not commit source page images to this public repository.

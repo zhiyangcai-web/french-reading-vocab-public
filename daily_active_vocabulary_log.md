@@ -4,7 +4,7 @@ Updated: 2026-07-02
 
 ## 2026-07-02
 
-Added 31 cards from the user's marked French reading pages.
+Added 41 cards from the user's marked French reading pages.
 
 ### Vêtements et objets du quotidien
 
@@ -33,6 +33,7 @@ Added 31 cards from the user's marked French reading pages.
 - `hocher la tête` - 点头
 - `se frotter le cou` - 揉/摸脖子
 - `scruter` - 仔细察看；凝视；审视
+- `s’essuyer` - 擦干；擦拭自己身体的一部分
 
 ### Sentiments et jugement
 
@@ -42,6 +43,8 @@ Added 31 cards from the user's marked French reading pages.
 - `à l’égard de quelqu’un` - 对于某人；对某人
 - `gêné / gênée` - 尴尬的；不好意思的；局促的
 - `agacé / agacée` - 烦躁的；恼火的
+- `J’en ai pas l’impression.` - 我不这么觉得；我没有这种感觉
+- `un élan` - 冲动；一阵情感；内心推动
 
 ### Description physique et objets
 
@@ -60,4 +63,17 @@ Added 31 cards from the user's marked French reading pages.
 - `le bahut` - 学校；中学（口语）
 - `une aprèm` - 下午（口语）
 - `solliciter quelqu’un` - 请求/找某人；引起某人回应
+- `charrier quelqu’un` - 拿某人开玩笑；调侃某人
+- `un pupitre` - 课桌；书桌；讲台式桌面
+- `plaisanter` - 开玩笑；说笑
+
+### Expression et nuance
+
+- `au-delà de` - 超出；在……之外；超过
+- `en deçà de` - 低于；未达到；在……以内
+- `être censé faire quelque chose` - 按理应该做某事；被认为应该做某事
+
+### Corps et sensations
+
+- `la nausée` - 恶心；想吐的感觉
 

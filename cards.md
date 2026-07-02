@@ -11,7 +11,7 @@ These cards use the user's short source sentences as examples.
 - 中文: 连裤袜；紧身袜
 - 词性: nom masculin pluriel
 - 法语简释: Vêtement fin et moulant qui couvre les jambes et les pieds.
-- 来源: photo 1, page 9
+- 来源: page 9
 - 标签: vetements, maison, quotidien
 - 搭配:
   - porter des collants
@@ -31,7 +31,7 @@ Elle s’est déchaussée, marche en collants.
 - 中文: 橡胶手套
 - 词性: groupe nominal
 - 法语简释: Gants imperméables utilisés pour le ménage ou pour protéger les mains.
-- 来源: photo 1, page 9
+- 来源: page 9
 - 标签: menage, vetements, maison
 - 搭配:
   - mettre des gants de caoutchouc
@@ -51,7 +51,7 @@ Ils tombent sur Lorraine, la mère de Connell, qui retire ses gants de caoutchou
 - 中文: 围裙
 - 词性: nom masculin
 - 法语简释: Vêtement de protection porté par-dessus les vêtements, souvent pour cuisiner.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: cuisine, vetements, maison
 - 搭配:
   - un tablier de cuisine
@@ -71,7 +71,7 @@ Lorraine, qui détachait son tablier de cuisine, interrompt son geste.
 - 中文: 勺子
 - 词性: nom féminin
 - 法语简释: Ustensile utilisé pour manger, servir ou remuer.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: cuisine, objet, geste
 - 搭配:
   - lécher la cuillère
@@ -91,7 +91,7 @@ Il s’adosse contre le réfrigérateur et la regarde lécher la cuillère.
 - 中文: 鞋底
 - 词性: nom féminin pluriel
 - 法语简释: Parties inférieures des chaussures, en contact avec le sol.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: chaussures, vetements, description
 - 搭配:
   - des chaussures à semelles épaisses
@@ -111,7 +111,7 @@ Elle porte de hideuses chaussures plates à semelles épaisses.
 - 中文: 领带结
 - 词性: groupe nominal
 - 法语简释: Partie nouée d’une cravate autour du cou.
-- 来源: photo 3
+- 来源: page 12
 - 标签: vetements, ecole, detail
 - 搭配:
   - faire un nœud de cravate
@@ -133,7 +133,7 @@ Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire 
 - 中文: 橡胶
 - 词性: nom masculin
 - 法语简释: Matière souple et imperméable utilisée pour fabriquer des gants, des bottes ou des pneus.
-- 来源: photo 1, page 9
+- 来源: page 9
 - 标签: matiere, objet, maison
 - 搭配:
   - des gants de caoutchouc
@@ -155,7 +155,7 @@ Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier
 - 中文: 厨房台面；工作台；实验台
 - 词性: nom féminin
 - 法语简释: Surface de travail dans une cuisine ou un laboratoire.
-- 来源: photo 1, page 9
+- 来源: page 9
 - 标签: cuisine, maison, surface
 - 搭配:
   - s’asseoir sur la paillasse
@@ -175,7 +175,7 @@ Marianne s’assoit d’un bond sur la paillasse.
 - 中文: 烘干机
 - 词性: nom masculin
 - 法语简释: Appareil qui sert à sécher le linge.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: linge, maison, appareil
 - 搭配:
   - vider le sèche-linge
@@ -195,7 +195,7 @@ Il faut juste que j’aille vider le sèche-linge.
 - 中文: 庄园宅邸；大宅
 - 词性: nom masculin
 - 法语简释: Grande maison ancienne, souvent associée à une propriété importante.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: logement, classe-sociale, lieu
 - 搭配:
   - habiter un manoir
@@ -215,7 +215,7 @@ On sait que Marianne habite le manoir blanc avec une grande allée.
 - 中文: 洗手池；盥洗盆
 - 词性: nom masculin
 - 法语简释: Petit bassin fixe avec un robinet, utilisé pour se laver les mains ou rincer quelque chose.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: salle-de-bain, objet, nettoyage
 - 搭配:
   - se laver les mains au lavabo
@@ -235,7 +235,7 @@ Elle était allée aux toilettes des filles retirer son chemisier pour le frotte
 - 中文: 地砖；石板
 - 词性: nom féminin pluriel
 - 法语简释: Plaques plates de pierre, de béton ou de carrelage utilisées pour couvrir le sol.
-- 来源: photo 3
+- 来源: page 12
 - 标签: sol, maison, objet
 - 搭配:
   - les dalles du carrelage
@@ -257,7 +257,7 @@ Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelag
 - 中文: 肩膀
 - 词性: nom féminin pluriel
 - 法语简释: Parties du corps entre le cou et les bras.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: corps, geste, attitude
 - 搭配:
   - hausser les épaules
@@ -277,7 +277,7 @@ Elle hausse les épaules.
 - 中文: 点头
 - 词性: locution verbale
 - 法语简释: Faire un mouvement de tête pour montrer son accord ou réagir.
-- 来源: photo 3
+- 来源: page 12
 - 标签: geste, tete, attitude
 - 搭配:
   - hocher la tête en silence
@@ -297,7 +297,7 @@ Il hoche la tête, regarde autour de lui.
 - 中文: 揉/摸脖子
 - 词性: locution verbale
 - 法语简释: Passer la main sur son cou, souvent par gêne, fatigue ou tension.
-- 来源: photo 3
+- 来源: page 12
 - 标签: geste, corps, malaise
 - 搭配:
   - se frotter le cou
@@ -317,7 +317,7 @@ Il se frotte le cou.
 - 中文: 仔细察看；凝视；审视
 - 词性: verbe
 - 法语简释: Examiner attentivement quelque chose, souvent avec insistance.
-- 来源: photo 3
+- 来源: page 12
 - 标签: regard, attention, lecture
 - 搭配:
   - scruter les pages
@@ -332,6 +332,26 @@ En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scru
 
 使用场景: 描述认真看、为了逃避尴尬而盯着某物、观察细节。
 
+### 5. s’essuyer
+
+- 中文: 擦干；擦拭自己身体的一部分
+- 词性: verbe pronominal
+- 法语简释: Enlever l’eau, la sueur ou une saleté de son corps avec un tissu, une serviette ou un vêtement.
+- 来源: page 13
+- 标签: geste, corps, quotidien
+- 搭配:
+  - s’essuyer les mains
+  - s’essuyer le visage
+  - s’essuyer avec une serviette
+
+例句:
+
+```text
+Il s’essuie les mains de haut en bas, sans réfléchir, sur la chemise de son uniforme.
+```
+
+使用场景: 用于描述擦手、擦脸等具体动作，也可以写出紧张时无意识的小动作。
+
 ## Sentiments et jugement
 
 ### 1. culpabiliser
@@ -339,7 +359,7 @@ En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scru
 - 中文: 感到内疚；使某人内疚
 - 词性: verbe
 - 法语简释: Se sentir coupable ou faire naître un sentiment de culpabilité chez quelqu’un.
-- 来源: photo 2, page 10
+- 来源: page 10
 - 标签: sentiment, culpabilite, relation
 - 搭配:
   - ne pas culpabiliser
@@ -359,7 +379,7 @@ Ne culpabilise pas.
 - 中文: 让某人处于尴尬/不舒服的处境
 - 词性: locution verbale
 - 法语简释: Placer quelqu’un dans une situation où il se sent mal à l’aise.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: gene, relation, expression
 - 搭配:
   - mettre quelqu’un mal à l’aise
@@ -379,7 +399,7 @@ Ne culpabilise pas.
 - 中文: 津津有味地享受；以某事为乐
 - 词性: verbe pronominal
 - 法语简释: Prendre un grand plaisir à quelque chose, parfois avec une nuance ironique ou critique.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: plaisir, ironie, relation
 - 搭配:
   - se délecter d’une histoire
@@ -399,7 +419,7 @@ C’est généralement le genre de trucs dont elle se délecte.
 - 中文: 对于某人；对某人
 - 词性: locution prépositionnelle
 - 法语简释: Envers quelqu’un, dans la manière de le considérer ou de se comporter avec lui.
-- 来源: photo 3
+- 来源: page 12
 - 标签: relation, sentiment, expression
 - 搭配:
   - les sentiments à son égard
@@ -419,7 +439,7 @@ Les sentiments qu’il éprouve à son égard sont au centre de toutes les conve
 - 中文: 尴尬的；不好意思的；局促的
 - 词性: adjectif
 - 法语简释: Qui se sent mal à l’aise, embarrassé ou empêché d’agir naturellement.
-- 来源: photo 3
+- 来源: page 12
 - 标签: sentiment, malaise, relation
 - 搭配:
   - être gêné
@@ -439,7 +459,7 @@ En cours, il est trop gêné et agacé pour se concentrer sur la leçon.
 - 中文: 烦躁的；恼火的
 - 词性: adjectif
 - 法语简释: Légèrement irrité ou énervé par quelqu’un ou quelque chose.
-- 来源: photo 3
+- 来源: page 12
 - 标签: sentiment, irritation, relation
 - 搭配:
   - être agacé par quelque chose
@@ -454,6 +474,46 @@ En cours, il est trop gêné et agacé pour se concentrer sur la leçon.
 
 使用场景: 描述轻微恼怒、不耐烦、被打扰后的情绪。
 
+### 7. J’en ai pas l’impression.
+
+- 中文: 我不这么觉得；我没有这种感觉
+- 词性: phrase
+- 法语简释: Formule orale pour dire que quelque chose ne correspond pas à ce que l’on perçoit ou ressent.
+- 来源: page 13
+- 标签: opinion, perception, oral
+- 搭配:
+  - avoir l’impression que
+  - ne pas en avoir l’impression
+  - donner l’impression de
+
+例句:
+
+```text
+J’en ai pas l’impression.
+```
+
+使用场景: 用于回应别人判断时，表示自己的感觉并不是这样。
+
+### 8. un élan
+
+- 中文: 冲动；一阵情感；内心推动
+- 词性: nom masculin
+- 法语简释: Mouvement intérieur spontané qui pousse quelqu’un vers une émotion, une envie ou une action.
+- 来源: page 13
+- 标签: sentiment, desir, interieur
+- 搭配:
+  - un élan de tendresse
+  - ses propres élans
+  - un élan spontané
+
+例句:
+
+```text
+Tout le monde est si convaincu de son attirance pour Mlle Neary qu’il doute parfois de ses propres élans.
+```
+
+使用场景: 用于描述不是经过理性计划，而是从内心冒出来的感情或冲动。
+
 ## Description physique et objets
 
 ### 1. épais / épaisse
@@ -461,7 +521,7 @@ En cours, il est trop gêné et agacé pour se concentrer sur la leçon.
 - 中文: 厚的；浓密的
 - 词性: adjectif
 - 法语简释: Qui a une certaine grosseur, largeur ou densité.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: adjectif, description, objet
 - 搭配:
   - des semelles épaisses
@@ -481,7 +541,7 @@ Elle porte de hideuses chaussures plates à semelles épaisses.
 - 中文: 腿
 - 词性: nom féminin pluriel
 - 法语简释: Parties du corps qui permettent de marcher.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: corps, apparence, quotidien
 - 搭配:
   - se raser les jambes
@@ -501,7 +561,7 @@ Il paraît qu’elle ne se rase pas les jambes.
 - 中文: 头颅；头骨
 - 词性: nom masculin
 - 法语简释: Partie osseuse de la tête qui contient le cerveau.
-- 来源: photo 3
+- 来源: page 12
 - 标签: corps, tete, description
 - 搭配:
   - au fond de son crâne
@@ -523,7 +583,7 @@ Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne.
 - 中文: 打翻；洒出；撞倒
 - 词性: verbe
 - 法语简释: Faire tomber ou répandre quelque chose accidentellement.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: accident, objet, quotidien
 - 搭配:
   - renverser un verre
@@ -543,7 +603,7 @@ Connell a entendu dire qu’elle avait renversé de la glace au chocolat sur ses
 - 中文: 把……压入/塞入；使陷进去
 - 词性: verbe
 - 法语简释: Faire pénétrer quelque chose dans une matière, un trou ou un espace.
-- 来源: photo 3
+- 来源: page 12
 - 标签: geste, mouvement, objet
 - 搭配:
   - enfoncer le bout de sa chaussure
@@ -565,7 +625,7 @@ Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelag
 - 中文: 食堂；餐厅
 - 词性: nom masculin
 - 法语简释: Salle où les élèves, étudiants ou membres d’une collectivité prennent leurs repas.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: ecole, lieu, cantine
 - 搭配:
   - au réfectoire du lycée
@@ -585,7 +645,7 @@ Elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire d
 - 中文: 学校；中学（口语）
 - 词性: nom masculin familier
 - 法语简释: Mot familier pour parler de l’école, souvent du collège ou du lycée.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: argot, ecole, oral
 - 搭配:
   - au bahut
@@ -605,7 +665,7 @@ Si elle voulait, elle pourrait ouvertement saluer Connell au bahut.
 - 中文: 下午（口语）
 - 词性: nom féminin familier
 - 法语简释: Forme familière de l’après-midi.
-- 来源: photo 2, page 11
+- 来源: page 11
 - 标签: familier, temps, oral
 - 搭配:
   - cet aprèm
@@ -625,7 +685,7 @@ Si elle voulait, elle pourrait ouvertement saluer Connell au bahut.
 - 中文: 请求/找某人；引起某人回应
 - 词性: verbe
 - 法语简释: Demander quelque chose à quelqu’un ou chercher à obtenir son attention.
-- 来源: photo 3
+- 来源: page 12
 - 标签: relation, demande, interaction
 - 搭配:
   - solliciter l’aide de quelqu’un
@@ -639,4 +699,148 @@ Il reste assis en silence pendant qu’elle lui parle et le sollicite.
 ```
 
 使用场景: 描述请求帮助、被人找、社交互动或工作沟通。
+
+### 5. charrier quelqu’un
+
+- 中文: 拿某人开玩笑；调侃某人
+- 词性: verbe familier
+- 法语简释: Taquiner ou se moquer gentiment de quelqu’un, souvent dans un registre familier.
+- 来源: page 13
+- 标签: relation, familier, jugement
+- 搭配:
+  - charrier quelqu’un sur quelque chose
+  - se faire charrier
+  - arrêter de charrier quelqu’un
+
+例句:
+
+```text
+On me charrie toujours sur le fait qu’elle me plaît ou je sais pas quoi, dit-il.
+```
+
+使用场景: 用于同学、朋友之间调侃、开玩笑，语气比较口语。
+
+### 6. un pupitre
+
+- 中文: 课桌；书桌；讲台式桌面
+- 词性: nom masculin
+- 法语简释: Petit bureau ou table de travail, surtout dans un contexte scolaire.
+- 来源: page 13
+- 标签: ecole, objet, classe
+- 搭配:
+  - se pencher sur son pupitre
+  - s’asseoir à son pupitre
+  - poser un cahier sur le pupitre
+
+例句:
+
+```text
+La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?
+```
+
+使用场景: 用于学校、课堂场景，描述学生或老师附近的桌面。
+
+### 7. plaisanter
+
+- 中文: 开玩笑；说笑
+- 词性: verbe
+- 法语简释: Dire quelque chose pour rire, sans intention sérieuse.
+- 来源: page 13
+- 标签: oral, interaction, relation
+- 搭配:
+  - tu plaisantes
+  - je plaisante
+  - ne pas plaisanter avec quelque chose
+
+例句:
+
+```text
+Non, tu plaisantes. Surtout pas.
+```
+
+使用场景: 用于判断别人是不是在开玩笑，也可用于缓和语气或否认认真意图。
+
+## Expression et nuance
+
+### 1. au-delà de
+
+- 中文: 超出；在……之外；超过
+- 词性: locution prépositive
+- 法语简释: Indique ce qui dépasse une limite, un niveau ou un cadre donné.
+- 来源: page 13
+- 标签: nuance, limite, abstrait
+- 搭配:
+  - au-delà de ses attentes
+  - au-delà de sa perception
+  - aller au-delà de quelque chose
+
+例句:
+
+```text
+Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?
+```
+
+使用场景: 用于表达超过某个范围、认知、程度或界限。
+
+### 2. en deçà de
+
+- 中文: 低于；未达到；在……以内
+- 词性: locution prépositive
+- 法语简释: Indique ce qui reste avant une limite ou n’atteint pas un certain niveau.
+- 来源: page 13
+- 标签: nuance, limite, abstrait
+- 搭配:
+  - rester en deçà de
+  - en deçà des attentes
+  - en deçà de sa perception
+
+例句:
+
+```text
+Et si, à quelque degré, au-delà ou en deçà de sa propre perception, elle l’attirait vraiment ?
+```
+
+使用场景: 常和 au-delà de 对照使用，表达低于某个范围或程度。
+
+### 3. être censé faire quelque chose
+
+- 中文: 按理应该做某事；被认为应该做某事
+- 词性: expression verbale
+- 法语简释: Être supposé faire quelque chose selon une règle, une attente ou une idée générale.
+- 来源: page 13
+- 标签: obligation, attente, oral
+- 搭配:
+  - être censé savoir
+  - être censé répondre
+  - ce qu’on est censé ressentir
+
+例句:
+
+```text
+Il ne sait même pas ce qu’on est censé ressentir quand quelqu’un nous attire.
+```
+
+使用场景: 用于表达“按理说应该怎样”，也可以带出困惑、期待或压力。
+
+## Corps et sensations
+
+### 1. la nausée
+
+- 中文: 恶心；想吐的感觉
+- 词性: nom féminin
+- 法语简释: Sensation désagréable qui donne envie de vomir.
+- 来源: page 13
+- 标签: corps, malaise, sensation
+- 搭配:
+  - avoir la nausée
+  - être pris de nausée
+  - une nausée soudaine
+
+例句:
+
+```text
+La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un signe d’excitation sexuelle ?
+```
+
+使用场景: 用于描述身体不适，也可以写由紧张、厌恶或焦虑引起的反应。
 
