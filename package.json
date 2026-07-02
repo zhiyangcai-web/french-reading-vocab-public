@@ -1,0 +1,9 @@
+{
+  "name": "french-reading-vocab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "export": "node scripts/export_active_vocabulary.js export",
+    "validate": "node scripts/export_active_vocabulary.js validate"
+  }
+}

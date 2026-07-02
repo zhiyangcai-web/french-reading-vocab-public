@@ -1,0 +1,831 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-store">
+  <title>French Reading Flashcards</title>
+  <style>
+    :root {
+      --bg: #f4f1ea;
+      --panel: #fffdf8;
+      --ink: #1f2933;
+      --muted: #64707d;
+      --line: #d8d0c4;
+      --accent: #006d77;
+      --accent-2: #9b3d32;
+      --accent-3: #b47d13;
+      --soft: #e4f3f2;
+      --known: #237a57;
+      --shadow: 0 18px 45px rgba(50, 43, 33, .14);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(90deg, rgba(0, 109, 119, .06), transparent 32%),
+        linear-gradient(180deg, #fbfaf6, var(--bg));
+      color: var(--ink);
+      font-family: Aptos, "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+    }
+
+    button, select, textarea {
+      font: inherit;
+    }
+
+    button, select {
+      min-height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--ink);
+    }
+
+    button {
+      cursor: pointer;
+      font-weight: 700;
+      padding: 8px 12px;
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: .55;
+    }
+
+    select {
+      padding: 7px 10px;
+      max-width: 100%;
+    }
+
+    .app {
+      width: min(1120px, 100%);
+      margin: 0 auto;
+      padding: 20px 16px 28px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: end;
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 25px;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .sub {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.45;
+    }
+
+    .summary {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      width: fit-content;
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--accent);
+      font-weight: 800;
+      padding: 5px 9px;
+      line-height: 1.2;
+      white-space: nowrap;
+    }
+
+    .pill.red {
+      background: #f8e8e4;
+      color: var(--accent-2);
+    }
+
+    .pill.gold {
+      background: #fff2cf;
+      color: #74500a;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(130px, 1fr)) repeat(4, auto);
+      gap: 8px;
+      align-items: center;
+      margin: 12px 0 14px;
+    }
+
+    .toolbar .primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .toolbar .danger {
+      border-color: #d4a19a;
+      color: var(--accent-2);
+    }
+
+    .study-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.32fr) minmax(260px, .68fr);
+      gap: 14px;
+      align-items: stretch;
+    }
+
+    .flash-wrap {
+      min-height: 520px;
+      perspective: 1200px;
+    }
+
+    .flash-card {
+      position: relative;
+      height: 100%;
+      min-height: 520px;
+      transform-style: preserve-3d;
+      transition: transform .24s ease;
+      border: 0;
+      background: transparent;
+      padding: 0;
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+
+    .flash-card.flipped {
+      transform: rotateY(180deg);
+    }
+
+    .face {
+      position: absolute;
+      inset: 0;
+      overflow: auto;
+      backface-visibility: hidden;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+      padding: 24px;
+      display: grid;
+      align-content: start;
+      gap: 16px;
+    }
+
+    .back {
+      transform: rotateY(180deg);
+    }
+
+    .front {
+      align-content: center;
+      min-height: 520px;
+    }
+
+    .front-stack {
+      display: grid;
+      gap: 18px;
+      justify-items: start;
+    }
+
+    .expr {
+      font-size: 42px;
+      line-height: 1.13;
+      font-weight: 800;
+      letter-spacing: 0;
+      overflow-wrap: anywhere;
+    }
+
+    .pos {
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.4;
+    }
+
+    .zh {
+      font-size: 22px;
+      line-height: 1.45;
+      font-weight: 760;
+    }
+
+    .section {
+      display: grid;
+      gap: 6px;
+    }
+
+    .section-title {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.2;
+      font-weight: 850;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    .body-text {
+      font-size: 16px;
+      line-height: 1.55;
+    }
+
+    .example {
+      border-left: 4px solid var(--accent);
+      background: #f8fbfa;
+      border-radius: 8px;
+      padding: 11px 12px;
+      font-size: 17px;
+      line-height: 1.58;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    li {
+      margin: 5px 0;
+      line-height: 1.45;
+    }
+
+    .source-panel, .review-panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      box-shadow: 0 10px 26px rgba(50, 43, 33, .08);
+      padding: 14px;
+    }
+
+    .source-panel {
+      display: grid;
+      align-content: start;
+      gap: 10px;
+      min-height: 520px;
+    }
+
+    .source-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .source-note {
+      display: grid;
+      gap: 10px;
+      margin-top: 8px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.55;
+    }
+
+    .status-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+      margin: 14px 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.4;
+    }
+
+    .status-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .known {
+      color: var(--known);
+      border-color: #a4cdbc;
+      background: #ecf8f2;
+    }
+
+    .starred {
+      color: #74500a;
+      border-color: #e2c069;
+      background: #fff7dd;
+    }
+
+    .review-panel {
+      margin-top: 14px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .review-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    textarea {
+      min-height: 110px;
+      width: 100%;
+      resize: vertical;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      background: #fffefa;
+      color: var(--ink);
+      line-height: 1.5;
+    }
+
+    @media (max-width: 900px) {
+      .topbar {
+        grid-template-columns: 1fr;
+      }
+
+      .summary {
+        justify-content: flex-start;
+      }
+
+      .toolbar {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .toolbar button {
+        min-width: 0;
+      }
+
+      .study-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .source-panel {
+        min-height: 360px;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .app {
+        padding: 15px 12px 22px;
+      }
+
+      h1 {
+        font-size: 22px;
+      }
+
+      .toolbar {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .toolbar select {
+        grid-column: span 2;
+      }
+
+      .flash-wrap, .flash-card, .front {
+        min-height: 560px;
+      }
+
+      .face {
+        padding: 18px;
+      }
+
+      .expr {
+        font-size: 32px;
+      }
+
+      .zh {
+        font-size: 20px;
+      }
+
+      .status-row, .review-head {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .status-actions button {
+        flex: 1 1 150px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div>
+        <h1>French Reading Flashcards</h1>
+        <div id="updated" class="sub">Loading vocabulary...</div>
+      </div>
+      <div id="summary" class="summary"></div>
+    </header>
+
+    <section class="toolbar" aria-label="Flashcard controls">
+      <select id="dateSelect" aria-label="Date"></select>
+      <select id="themeSelect" aria-label="Theme"></select>
+      <select id="tagSelect" aria-label="Tag"></select>
+      <select id="statusSelect" aria-label="Status">
+        <option value="review">待复习</option>
+        <option value="known">已掌握</option>
+        <option value="starred">星标</option>
+        <option value="all">全部</option>
+      </select>
+      <button id="prevBtn" type="button">←</button>
+      <button id="flipBtn" class="primary" type="button">翻面</button>
+      <button id="nextBtn" type="button">→</button>
+      <button id="shuffleBtn" type="button">随机</button>
+    </section>
+
+    <div class="status-row">
+      <div id="progress">0 / 0</div>
+      <div class="status-actions">
+        <button id="starBtn" type="button">星标</button>
+        <button id="knownBtn" type="button">标记掌握</button>
+        <button id="resetBtn" class="danger" type="button">重置本地进度</button>
+      </div>
+    </div>
+
+    <section class="study-grid">
+      <div class="flash-wrap">
+        <button id="card" class="flash-card" type="button" aria-label="Flashcard">
+          <article class="face front">
+            <div class="front-stack">
+              <div id="frontTheme" class="pill"></div>
+              <div id="frontExpr" class="expr"></div>
+              <div id="frontPos" class="pos"></div>
+            </div>
+          </article>
+          <article class="face back">
+            <div id="backTheme" class="pill"></div>
+            <div id="backExpr" class="expr"></div>
+            <div id="backPos" class="pos"></div>
+            <div id="backZh" class="zh"></div>
+            <div class="section">
+              <div class="section-title">Définition</div>
+              <div id="definitionFr" class="body-text"></div>
+            </div>
+            <div class="section">
+              <div class="section-title">Collocations</div>
+              <ul id="collocations" class="body-text"></ul>
+            </div>
+            <div class="section">
+              <div class="section-title">Exemple source</div>
+              <div id="example" class="example"></div>
+            </div>
+            <div class="section">
+              <div class="section-title">Use Case</div>
+              <div id="useCase" class="body-text"></div>
+            </div>
+          </article>
+        </button>
+      </div>
+
+      <aside class="source-panel">
+        <div class="source-head">
+          <h2>Source</h2>
+          <span id="sourcePage" class="pill gold"></span>
+        </div>
+        <div id="sourceMeta" class="sub"></div>
+        <div class="source-note">
+          <div>Examples are short sentences taken from the user's marked reading text.</div>
+          <div>No source photos are included in this public version.</div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="review-panel">
+      <div class="review-head">
+        <h2>复用练习</h2>
+        <span id="noteTarget" class="pill red"></span>
+      </div>
+      <textarea id="notes" placeholder="用当前词写一句自己的法语句子。内容只保存在这个浏览器。"></textarea>
+    </section>
+  </main>
+
+  <script>
+    const storage = {
+      index: "reading_vocab_index",
+      date: "reading_vocab_date_filter",
+      theme: "reading_vocab_theme_filter",
+      tag: "reading_vocab_tag_filter",
+      status: "reading_vocab_status_filter",
+      known: "reading_vocab_known",
+      starred: "reading_vocab_starred",
+      notes: "reading_vocab_notes"
+    };
+
+    let cards = [];
+    let filtered = [];
+    let index = Number(localStorage.getItem(storage.index) || 0);
+    let flipped = false;
+    let known = new Set(JSON.parse(localStorage.getItem(storage.known) || "[]"));
+    let starred = new Set(JSON.parse(localStorage.getItem(storage.starred) || "[]"));
+
+    const els = {
+      updated: document.getElementById("updated"),
+      summary: document.getElementById("summary"),
+      dateSelect: document.getElementById("dateSelect"),
+      themeSelect: document.getElementById("themeSelect"),
+      tagSelect: document.getElementById("tagSelect"),
+      statusSelect: document.getElementById("statusSelect"),
+      progress: document.getElementById("progress"),
+      card: document.getElementById("card"),
+      frontTheme: document.getElementById("frontTheme"),
+      frontExpr: document.getElementById("frontExpr"),
+      frontPos: document.getElementById("frontPos"),
+      backTheme: document.getElementById("backTheme"),
+      backExpr: document.getElementById("backExpr"),
+      backPos: document.getElementById("backPos"),
+      backZh: document.getElementById("backZh"),
+      definitionFr: document.getElementById("definitionFr"),
+      collocations: document.getElementById("collocations"),
+      example: document.getElementById("example"),
+      useCase: document.getElementById("useCase"),
+      sourcePage: document.getElementById("sourcePage"),
+      sourceMeta: document.getElementById("sourceMeta"),
+      starBtn: document.getElementById("starBtn"),
+      knownBtn: document.getElementById("knownBtn"),
+      resetBtn: document.getElementById("resetBtn"),
+      notes: document.getElementById("notes"),
+      noteTarget: document.getElementById("noteTarget")
+    };
+
+    function cardId(card) {
+      return card.id || `${card.date}::${card.theme}::${card.expression}`;
+    }
+
+    function isKnown(card) {
+      return known.has(cardId(card));
+    }
+
+    function isStarred(card) {
+      return starred.has(cardId(card));
+    }
+
+    function sortedUnique(values) {
+      return Array.from(new Set(values.filter(Boolean))).sort((a, b) => String(a).localeCompare(String(b), "fr"));
+    }
+
+    function fillSelect(select, values, savedValue) {
+      select.replaceChildren();
+      for (const item of values) {
+        const option = document.createElement("option");
+        option.value = item.value;
+        option.textContent = item.label;
+        select.appendChild(option);
+      }
+      if (savedValue && Array.from(select.options).some(option => option.value === savedValue)) {
+        select.value = savedValue;
+      }
+    }
+
+    function setupFilters() {
+      fillSelect(
+        els.dateSelect,
+        [{ value: "all", label: "全部日期" }, ...sortedUnique(cards.map(card => card.date)).map(date => ({ value: date, label: date }))],
+        localStorage.getItem(storage.date)
+      );
+      fillSelect(
+        els.themeSelect,
+        [{ value: "all", label: "全部主题" }, ...sortedUnique(cards.map(card => card.theme)).map(theme => ({ value: theme, label: theme }))],
+        localStorage.getItem(storage.theme)
+      );
+      fillSelect(
+        els.tagSelect,
+        [{ value: "all", label: "全部标签" }, ...sortedUnique(cards.flatMap(card => card.tags || [])).map(tag => ({ value: tag, label: tag }))],
+        localStorage.getItem(storage.tag)
+      );
+      els.statusSelect.value = localStorage.getItem(storage.status) || "review";
+    }
+
+    function matchesStatus(card, status) {
+      if (status === "all") return true;
+      if (status === "known") return isKnown(card);
+      if (status === "starred") return isStarred(card);
+      return !isKnown(card);
+    }
+
+    function applyFilter(keepIndex = false) {
+      const date = els.dateSelect.value;
+      const theme = els.themeSelect.value;
+      const tag = els.tagSelect.value;
+      const status = els.statusSelect.value;
+
+      filtered = cards.filter(card => {
+        const dateOk = date === "all" || card.date === date;
+        const themeOk = theme === "all" || card.theme === theme;
+        const tagOk = tag === "all" || (Array.isArray(card.tags) && card.tags.includes(tag));
+        return dateOk && themeOk && tagOk && matchesStatus(card, status);
+      });
+
+      if (!keepIndex) index = 0;
+      flipped = false;
+      render();
+    }
+
+    function currentCard() {
+      if (!filtered.length) return null;
+      if (index < 0) index = filtered.length - 1;
+      if (index >= filtered.length) index = 0;
+      return filtered[index];
+    }
+
+    function render() {
+      const card = currentCard();
+      els.card.classList.toggle("flipped", flipped);
+
+      if (!card) {
+        els.progress.textContent = "0 / 0";
+        els.frontTheme.textContent = "No cards";
+        els.frontExpr.textContent = "";
+        els.frontPos.textContent = "";
+        els.backTheme.textContent = "No cards";
+        els.backExpr.textContent = "";
+        els.backPos.textContent = "";
+        els.backZh.textContent = "";
+        els.definitionFr.textContent = "";
+        els.collocations.replaceChildren();
+        els.example.textContent = "";
+        els.useCase.textContent = "";
+        els.sourcePage.textContent = "";
+        els.sourceMeta.textContent = "";
+        els.starBtn.disabled = true;
+        els.knownBtn.disabled = true;
+        els.noteTarget.textContent = "";
+        updateSummary();
+        return;
+      }
+
+      const tags = Array.isArray(card.tags) ? card.tags.join(" · ") : "";
+      els.progress.textContent = `${index + 1} / ${filtered.length}`;
+      els.frontTheme.textContent = card.theme;
+      els.frontExpr.textContent = card.expression;
+      els.frontPos.textContent = card.pos || "";
+      els.backTheme.textContent = card.theme;
+      els.backExpr.textContent = card.expression;
+      els.backPos.textContent = `${card.pos || ""}${tags ? " · " + tags : ""}`;
+      els.backZh.textContent = card.zh || "";
+      els.definitionFr.textContent = card.definitionFr || "";
+      els.example.textContent = card.example || "";
+      els.useCase.textContent = card.useCase || "";
+      els.sourcePage.textContent = card.sourcePage || "";
+      els.sourceMeta.textContent = card.batch || "";
+      els.noteTarget.textContent = card.expression;
+
+      els.collocations.replaceChildren();
+      for (const item of card.collocations || []) {
+        const li = document.createElement("li");
+        li.textContent = item;
+        els.collocations.appendChild(li);
+      }
+
+      const knownNow = isKnown(card);
+      const starredNow = isStarred(card);
+      els.knownBtn.disabled = false;
+      els.starBtn.disabled = false;
+      els.knownBtn.textContent = knownNow ? "移回复习" : "标记掌握";
+      els.knownBtn.classList.toggle("known", knownNow);
+      els.starBtn.textContent = starredNow ? "取消星标" : "星标";
+      els.starBtn.classList.toggle("starred", starredNow);
+
+      localStorage.setItem(storage.index, String(index));
+      updateSummary();
+    }
+
+    function updateSummary() {
+      const knownCount = cards.filter(isKnown).length;
+      const starredCount = cards.filter(isStarred).length;
+      const reviewCount = Math.max(cards.length - knownCount, 0);
+      const parts = [
+        ["待复习", reviewCount, "pill"],
+        ["已掌握", knownCount, "pill"],
+        ["星标", starredCount, "pill gold"],
+        ["总计", cards.length, "pill red"]
+      ];
+      els.summary.replaceChildren(...parts.map(([label, value, className]) => {
+        const span = document.createElement("span");
+        span.className = className;
+        span.textContent = `${label} ${value}`;
+        return span;
+      }));
+    }
+
+    function move(delta) {
+      index += delta;
+      flipped = false;
+      render();
+    }
+
+    function shuffle() {
+      if (!filtered.length) return;
+      index = Math.floor(Math.random() * filtered.length);
+      flipped = false;
+      render();
+    }
+
+    function flip() {
+      flipped = !flipped;
+      render();
+    }
+
+    function saveKnown() {
+      localStorage.setItem(storage.known, JSON.stringify([...known]));
+    }
+
+    function saveStarred() {
+      localStorage.setItem(storage.starred, JSON.stringify([...starred]));
+    }
+
+    function toggleKnown() {
+      const card = currentCard();
+      if (!card) return;
+      const id = cardId(card);
+      if (known.has(id)) known.delete(id);
+      else known.add(id);
+      saveKnown();
+      applyFilter(true);
+    }
+
+    function toggleStarred() {
+      const card = currentCard();
+      if (!card) return;
+      const id = cardId(card);
+      if (starred.has(id)) starred.delete(id);
+      else starred.add(id);
+      saveStarred();
+      applyFilter(true);
+    }
+
+    function resetProgress() {
+      known = new Set();
+      starred = new Set();
+      saveKnown();
+      saveStarred();
+      index = 0;
+      applyFilter();
+    }
+
+    function persistFilter() {
+      localStorage.setItem(storage.date, els.dateSelect.value);
+      localStorage.setItem(storage.theme, els.themeSelect.value);
+      localStorage.setItem(storage.tag, els.tagSelect.value);
+      localStorage.setItem(storage.status, els.statusSelect.value);
+    }
+
+    async function loadCards() {
+      const response = await fetch(`vocab.json?v=${Date.now()}`, { cache: "no-store" });
+      if (!response.ok) throw new Error(`Could not load vocab.json: ${response.status}`);
+      const data = await response.json();
+      cards = Array.isArray(data.cards) ? data.cards : [];
+      els.updated.textContent = `Updated: ${data.updated || "unknown"} · ${cards.length} cards · ${data.source || ""}`;
+      setupFilters();
+      applyFilter(true);
+    }
+
+    document.getElementById("prevBtn").addEventListener("click", () => move(-1));
+    document.getElementById("nextBtn").addEventListener("click", () => move(1));
+    document.getElementById("flipBtn").addEventListener("click", flip);
+    document.getElementById("shuffleBtn").addEventListener("click", shuffle);
+    els.card.addEventListener("click", flip);
+    els.starBtn.addEventListener("click", toggleStarred);
+    els.knownBtn.addEventListener("click", toggleKnown);
+    els.resetBtn.addEventListener("click", resetProgress);
+    for (const select of [els.dateSelect, els.themeSelect, els.tagSelect, els.statusSelect]) {
+      select.addEventListener("change", () => {
+        persistFilter();
+        applyFilter();
+      });
+    }
+
+    els.notes.value = localStorage.getItem(storage.notes) || "";
+    els.notes.addEventListener("input", () => localStorage.setItem(storage.notes, els.notes.value));
+
+    window.addEventListener("keydown", event => {
+      if (event.target === els.notes) return;
+      if (event.key === "ArrowRight") move(1);
+      if (event.key === "ArrowLeft") move(-1);
+      if (event.key === " ") {
+        event.preventDefault();
+        flip();
+      }
+    });
+
+    loadCards().catch(error => {
+      els.updated.textContent = "Failed to load vocab.json. Run this folder through a local server.";
+      console.error(error);
+    });
+  </script>
+</body>
+</html>

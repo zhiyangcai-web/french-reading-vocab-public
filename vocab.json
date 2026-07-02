@@ -1,0 +1,720 @@
+{
+  "updated": "2026-07-02",
+  "title": "French Reading Flashcards",
+  "source": "User-provided French homework photos, July 2026",
+  "cards": [
+    {
+      "id": "p9-collants",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "vetements",
+        "maison",
+        "quotidien"
+      ],
+      "expression": "des collants",
+      "pos": "nom masculin pluriel",
+      "zh": "连裤袜；紧身袜",
+      "definitionFr": "Vêtement fin et moulant qui couvre les jambes et les pieds.",
+      "collocations": [
+        "porter des collants",
+        "marcher en collants",
+        "enfiler des collants"
+      ],
+      "example": "Elle s’est déchaussée, marche en collants.",
+      "useCase": "描述衣着、室内状态、日常动作。",
+      "sourcePage": "photo 1, page 9"
+    },
+    {
+      "id": "p9-gants-caoutchouc",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "menage",
+        "vetements",
+        "maison"
+      ],
+      "expression": "des gants de caoutchouc",
+      "pos": "groupe nominal",
+      "zh": "橡胶手套",
+      "definitionFr": "Gants imperméables utilisés pour le ménage ou pour protéger les mains.",
+      "collocations": [
+        "mettre des gants de caoutchouc",
+        "retirer ses gants de caoutchouc",
+        "une paire de gants en caoutchouc"
+      ],
+      "example": "Ils tombent sur Lorraine, la mère de Connell, qui retire ses gants de caoutchouc.",
+      "useCase": "描述家务、清洁、保护手部的用品。",
+      "sourcePage": "photo 1, page 9"
+    },
+    {
+      "id": "p9-caoutchouc",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Matières et objets",
+      "tags": [
+        "matiere",
+        "objet",
+        "maison"
+      ],
+      "expression": "le caoutchouc",
+      "pos": "nom masculin",
+      "zh": "橡胶",
+      "definitionFr": "Matière souple et imperméable utilisée pour fabriquer des gants, des bottes ou des pneus.",
+      "collocations": [
+        "des gants de caoutchouc",
+        "des bottes en caoutchouc",
+        "une semelle en caoutchouc"
+      ],
+      "example": "Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier.",
+      "useCase": "描述材料、家务用品、鞋底或防水物品。",
+      "sourcePage": "photo 1, page 9"
+    },
+    {
+      "id": "p9-paillasse",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Maison et lieux",
+      "tags": [
+        "cuisine",
+        "maison",
+        "surface"
+      ],
+      "expression": "une paillasse",
+      "pos": "nom féminin",
+      "zh": "厨房台面；工作台；实验台",
+      "definitionFr": "Surface de travail dans une cuisine ou un laboratoire.",
+      "collocations": [
+        "s’asseoir sur la paillasse",
+        "nettoyer la paillasse",
+        "poser quelque chose sur la paillasse"
+      ],
+      "example": "Marianne s’assoit d’un bond sur la paillasse.",
+      "useCase": "描述厨房、实验室或工作台面。",
+      "sourcePage": "photo 1, page 9"
+    },
+    {
+      "id": "p10-tablier",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "cuisine",
+        "vetements",
+        "maison"
+      ],
+      "expression": "un tablier",
+      "pos": "nom masculin",
+      "zh": "围裙",
+      "definitionFr": "Vêtement de protection porté par-dessus les vêtements, souvent pour cuisiner.",
+      "collocations": [
+        "un tablier de cuisine",
+        "détacher son tablier",
+        "mettre un tablier"
+      ],
+      "example": "Lorraine, qui détachait son tablier de cuisine, interrompt son geste.",
+      "useCase": "描述厨房、家务、手工劳动时的穿着。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p10-seche-linge",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Maison et lieux",
+      "tags": [
+        "linge",
+        "maison",
+        "appareil"
+      ],
+      "expression": "un sèche-linge",
+      "pos": "nom masculin",
+      "zh": "烘干机",
+      "definitionFr": "Appareil qui sert à sécher le linge.",
+      "collocations": [
+        "vider le sèche-linge",
+        "mettre le linge au sèche-linge",
+        "sortir les vêtements du sèche-linge"
+      ],
+      "example": "Il faut juste que j’aille vider le sèche-linge.",
+      "useCase": "描述洗衣、家务和家用电器。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p10-cuillere",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "cuisine",
+        "objet",
+        "geste"
+      ],
+      "expression": "une cuillère",
+      "pos": "nom féminin",
+      "zh": "勺子",
+      "definitionFr": "Ustensile utilisé pour manger, servir ou remuer.",
+      "collocations": [
+        "lécher la cuillère",
+        "faire tourner la cuillère dans le pot",
+        "une petite cuillère"
+      ],
+      "example": "Il s’adosse contre le réfrigérateur et la regarde lécher la cuillère.",
+      "useCase": "描述厨房、吃东西、搅拌等动作。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p10-manoir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Maison et lieux",
+      "tags": [
+        "logement",
+        "classe-sociale",
+        "lieu"
+      ],
+      "expression": "un manoir",
+      "pos": "nom masculin",
+      "zh": "庄园宅邸；大宅",
+      "definitionFr": "Grande maison ancienne, souvent associée à une propriété importante.",
+      "collocations": [
+        "habiter un manoir",
+        "un manoir blanc",
+        "un vieux manoir"
+      ],
+      "example": "On sait que Marianne habite le manoir blanc avec une grande allée.",
+      "useCase": "描述住宅、阶层差异、场景背景。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p10-epaules",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "corps",
+        "geste",
+        "attitude"
+      ],
+      "expression": "les épaules",
+      "pos": "nom féminin pluriel",
+      "zh": "肩膀",
+      "definitionFr": "Parties du corps entre le cou et les bras.",
+      "collocations": [
+        "hausser les épaules",
+        "avoir les épaules tendues",
+        "poser une main sur l’épaule"
+      ],
+      "example": "Elle hausse les épaules.",
+      "useCase": "描述身体部位和“耸肩”这种态度动作。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p10-culpabiliser",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "culpabilite",
+        "relation"
+      ],
+      "expression": "culpabiliser",
+      "pos": "verbe",
+      "zh": "感到内疚；使某人内疚",
+      "definitionFr": "Se sentir coupable ou faire naître un sentiment de culpabilité chez quelqu’un.",
+      "collocations": [
+        "ne pas culpabiliser",
+        "culpabiliser quelqu’un",
+        "se sentir coupable"
+      ],
+      "example": "Ne culpabilise pas.",
+      "useCase": "安慰别人、表达负罪感、讨论心理压力。",
+      "sourcePage": "photo 2, page 10"
+    },
+    {
+      "id": "p11-semelles",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "chaussures",
+        "vetements",
+        "description"
+      ],
+      "expression": "des semelles",
+      "pos": "nom féminin pluriel",
+      "zh": "鞋底",
+      "definitionFr": "Parties inférieures des chaussures, en contact avec le sol.",
+      "collocations": [
+        "des chaussures à semelles épaisses",
+        "une semelle usée",
+        "des semelles en caoutchouc"
+      ],
+      "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
+      "useCase": "描述鞋子、穿着、外貌细节。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-epaisses",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Description physique et objets",
+      "tags": [
+        "adjectif",
+        "description",
+        "objet"
+      ],
+      "expression": "épais / épaisse",
+      "pos": "adjectif",
+      "zh": "厚的；浓密的",
+      "definitionFr": "Qui a une certaine grosseur, largeur ou densité.",
+      "collocations": [
+        "des semelles épaisses",
+        "un pull épais",
+        "des cheveux épais"
+      ],
+      "example": "Elle porte de hideuses chaussures plates à semelles épaisses.",
+      "useCase": "描述衣物、材料、头发、书本等厚度或密度。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-jambes",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Description physique et objets",
+      "tags": [
+        "corps",
+        "apparence",
+        "quotidien"
+      ],
+      "expression": "les jambes",
+      "pos": "nom féminin pluriel",
+      "zh": "腿",
+      "definitionFr": "Parties du corps qui permettent de marcher.",
+      "collocations": [
+        "se raser les jambes",
+        "avoir mal aux jambes",
+        "croiser les jambes"
+      ],
+      "example": "Il paraît qu’elle ne se rase pas les jambes.",
+      "useCase": "描述身体、外貌或日常护理。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-renverser",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "accident",
+        "objet",
+        "quotidien"
+      ],
+      "expression": "renverser",
+      "pos": "verbe",
+      "zh": "打翻；洒出；撞倒",
+      "definitionFr": "Faire tomber ou répandre quelque chose accidentellement.",
+      "collocations": [
+        "renverser un verre",
+        "renverser de la glace",
+        "renverser quelque chose sur ses vêtements"
+      ],
+      "example": "Connell a entendu dire qu’elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
+      "useCase": "描述小事故、弄脏衣服、打翻饮料。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-refectoire",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "ecole",
+        "lieu",
+        "cantine"
+      ],
+      "expression": "un réfectoire",
+      "pos": "nom masculin",
+      "zh": "食堂；餐厅",
+      "definitionFr": "Salle où les élèves, étudiants ou membres d’une collectivité prennent leurs repas.",
+      "collocations": [
+        "au réfectoire du lycée",
+        "manger au réfectoire",
+        "entrer dans le réfectoire"
+      ],
+      "example": "Elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée.",
+      "useCase": "描述学校、寄宿制或集体生活里的用餐地点。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-lavabo",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Maison et lieux",
+      "tags": [
+        "salle-de-bain",
+        "objet",
+        "nettoyage"
+      ],
+      "expression": "un lavabo",
+      "pos": "nom masculin",
+      "zh": "洗手池；盥洗盆",
+      "definitionFr": "Petit bassin fixe avec un robinet, utilisé pour se laver les mains ou rincer quelque chose.",
+      "collocations": [
+        "se laver les mains au lavabo",
+        "frotter quelque chose dans le lavabo",
+        "nettoyer le lavabo"
+      ],
+      "example": "Elle était allée aux toilettes des filles retirer son chemisier pour le frotter dans le lavabo.",
+      "useCase": "描述洗手间、清洗衣物、生活场景。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-bahut",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "argot",
+        "ecole",
+        "oral"
+      ],
+      "expression": "le bahut",
+      "pos": "nom masculin familier",
+      "zh": "学校；中学（口语）",
+      "definitionFr": "Mot familier pour parler de l’école, souvent du collège ou du lycée.",
+      "collocations": [
+        "au bahut",
+        "aller au bahut",
+        "les gens du bahut"
+      ],
+      "example": "Si elle voulait, elle pourrait ouvertement saluer Connell au bahut.",
+      "useCase": "口语里谈学校生活；正式写作慎用。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-aprem",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "familier",
+        "temps",
+        "oral"
+      ],
+      "expression": "une aprèm",
+      "pos": "nom féminin familier",
+      "zh": "下午（口语）",
+      "definitionFr": "Forme familière de l’après-midi.",
+      "collocations": [
+        "cet aprèm",
+        "à cet aprèm",
+        "passer l’aprèm avec quelqu’un"
+      ],
+      "example": "À cet aprèm, pourrait-elle lui dire devant tout le monde.",
+      "useCase": "口语聊天、短信、非正式叙述。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-mettre-position",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "gene",
+        "relation",
+        "expression"
+      ],
+      "expression": "mettre quelqu’un dans une position inconfortable",
+      "pos": "locution verbale",
+      "zh": "让某人处于尴尬/不舒服的处境",
+      "definitionFr": "Placer quelqu’un dans une situation où il se sent mal à l’aise.",
+      "collocations": [
+        "mettre quelqu’un mal à l’aise",
+        "mettre quelqu’un dans l’embarras",
+        "une position inconfortable"
+      ],
+      "example": "Ça le mettrait sans aucun doute dans une position inconfortable.",
+      "useCase": "描述社交尴尬、公开压力、人际关系中的不自在。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p11-se-delecter",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "plaisir",
+        "ironie",
+        "relation"
+      ],
+      "expression": "se délecter de quelque chose",
+      "pos": "verbe pronominal",
+      "zh": "津津有味地享受；以某事为乐",
+      "definitionFr": "Prendre un grand plaisir à quelque chose, parfois avec une nuance ironique ou critique.",
+      "collocations": [
+        "se délecter d’une histoire",
+        "se délecter d’un malaise",
+        "se délecter de petits drames"
+      ],
+      "example": "C’est généralement le genre de trucs dont elle se délecte.",
+      "useCase": "描述某人享受八卦、尴尬场面或某种乐趣。",
+      "sourcePage": "photo 2, page 11"
+    },
+    {
+      "id": "p12-crane",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Description physique et objets",
+      "tags": [
+        "corps",
+        "tete",
+        "description"
+      ],
+      "expression": "le crâne",
+      "pos": "nom masculin",
+      "zh": "头颅；头骨",
+      "definitionFr": "Partie osseuse de la tête qui contient le cerveau.",
+      "collocations": [
+        "au fond de son crâne",
+        "avoir mal au crâne",
+        "se cogner le crâne"
+      ],
+      "example": "Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne.",
+      "useCase": "描述头部、身体感受或心理穿透感。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-hocher",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "geste",
+        "tete",
+        "attitude"
+      ],
+      "expression": "hocher la tête",
+      "pos": "locution verbale",
+      "zh": "点头",
+      "definitionFr": "Faire un mouvement de tête pour montrer son accord ou réagir.",
+      "collocations": [
+        "hocher la tête en silence",
+        "hocher la tête pour dire oui",
+        "répondre d’un hochement de tête"
+      ],
+      "example": "Il hoche la tête, regarde autour de lui.",
+      "useCase": "叙述人物反应、沉默回答或尴尬场景。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-enfoncer",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Actions du quotidien",
+      "tags": [
+        "geste",
+        "mouvement",
+        "objet"
+      ],
+      "expression": "enfoncer",
+      "pos": "verbe",
+      "zh": "把……压入/塞入；使陷进去",
+      "definitionFr": "Faire pénétrer quelque chose dans une matière, un trou ou un espace.",
+      "collocations": [
+        "enfoncer le bout de sa chaussure",
+        "enfoncer une clé dans la serrure",
+        "enfoncer ses mains dans les poches"
+      ],
+      "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
+      "useCase": "描述细小动作、紧张时的身体动作或物体移动。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-dalles",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Maison et lieux",
+      "tags": [
+        "sol",
+        "maison",
+        "objet"
+      ],
+      "expression": "des dalles",
+      "pos": "nom féminin pluriel",
+      "zh": "地砖；石板",
+      "definitionFr": "Plaques plates de pierre, de béton ou de carrelage utilisées pour couvrir le sol.",
+      "collocations": [
+        "les dalles du carrelage",
+        "une dalle de pierre",
+        "marcher sur les dalles"
+      ],
+      "example": "Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage.",
+      "useCase": "描述地面、房屋细节或人物视线/动作落点。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-se-frotter",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "geste",
+        "corps",
+        "malaise"
+      ],
+      "expression": "se frotter le cou",
+      "pos": "locution verbale",
+      "zh": "揉/摸脖子",
+      "definitionFr": "Passer la main sur son cou, souvent par gêne, fatigue ou tension.",
+      "collocations": [
+        "se frotter le cou",
+        "se frotter les mains",
+        "se frotter les yeux"
+      ],
+      "example": "Il se frotte le cou.",
+      "useCase": "描述紧张、尴尬、疲惫时的身体动作。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-egard",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "relation",
+        "sentiment",
+        "expression"
+      ],
+      "expression": "à l’égard de quelqu’un",
+      "pos": "locution prépositionnelle",
+      "zh": "对于某人；对某人",
+      "definitionFr": "Envers quelqu’un, dans la manière de le considérer ou de se comporter avec lui.",
+      "collocations": [
+        "les sentiments à son égard",
+        "son attitude à l’égard de quelqu’un",
+        "être dur à l’égard de quelqu’un"
+      ],
+      "example": "Les sentiments qu’il éprouve à son égard sont au centre de toutes les conversations au lycée.",
+      "useCase": "描述态度、感情、评价对象；写作中很实用。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-noeud-cravate",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vêtements et objets du quotidien",
+      "tags": [
+        "vetements",
+        "ecole",
+        "detail"
+      ],
+      "expression": "un nœud de cravate",
+      "pos": "groupe nominal",
+      "zh": "领带结",
+      "definitionFr": "Partie nouée d’une cravate autour du cou.",
+      "collocations": [
+        "faire un nœud de cravate",
+        "toucher le nœud de sa cravate",
+        "resserrer son nœud de cravate"
+      ],
+      "example": "Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire dans la vie, et a même une fois touché le nœud de cravate de son uniforme.",
+      "useCase": "描述服装细节、制服、紧张时的小动作。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-solliciter",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Vie scolaire et relations",
+      "tags": [
+        "relation",
+        "demande",
+        "interaction"
+      ],
+      "expression": "solliciter quelqu’un",
+      "pos": "verbe",
+      "zh": "请求/找某人；引起某人回应",
+      "definitionFr": "Demander quelque chose à quelqu’un ou chercher à obtenir son attention.",
+      "collocations": [
+        "solliciter l’aide de quelqu’un",
+        "être très sollicité",
+        "solliciter une réponse"
+      ],
+      "example": "Il reste assis en silence pendant qu’elle lui parle et le sollicite.",
+      "useCase": "描述请求帮助、被人找、社交互动或工作沟通。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-gene",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "malaise",
+        "relation"
+      ],
+      "expression": "gêné / gênée",
+      "pos": "adjectif",
+      "zh": "尴尬的；不好意思的；局促的",
+      "definitionFr": "Qui se sent mal à l’aise, embarrassé ou empêché d’agir naturellement.",
+      "collocations": [
+        "être gêné",
+        "être trop gêné pour parler",
+        "se sentir gêné"
+      ],
+      "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
+      "useCase": "描述社交尴尬、羞怯、被困住的心理状态。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-agace",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "irritation",
+        "relation"
+      ],
+      "expression": "agacé / agacée",
+      "pos": "adjectif",
+      "zh": "烦躁的；恼火的",
+      "definitionFr": "Légèrement irrité ou énervé par quelqu’un ou quelque chose.",
+      "collocations": [
+        "être agacé par quelque chose",
+        "avoir l’air agacé",
+        "une voix agacée"
+      ],
+      "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon.",
+      "useCase": "描述轻微恼怒、不耐烦、被打扰后的情绪。",
+      "sourcePage": "photo 3"
+    },
+    {
+      "id": "p12-scruter",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - photos 1-3",
+      "theme": "Gestes et attitudes",
+      "tags": [
+        "regard",
+        "attention",
+        "lecture"
+      ],
+      "expression": "scruter",
+      "pos": "verbe",
+      "zh": "仔细察看；凝视；审视",
+      "definitionFr": "Examiner attentivement quelque chose, souvent avec insistance.",
+      "collocations": [
+        "scruter les pages",
+        "scruter le visage de quelqu’un",
+        "scruter l’horizon"
+      ],
+      "example": "En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scrute les pages de son manuel.",
+      "useCase": "描述认真看、为了逃避尴尬而盯着某物、观察细节。",
+      "sourcePage": "photo 3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# French Reading Vocabulary Table
+
+Updated: 2026-07-02
+
+| Theme | Expression | 中文 | POS | Collocations | Example | Source |
+|---|---|---|---|---|---|---|
+| Vêtements et objets du quotidien | des collants | 连裤袜；紧身袜 | nom masculin pluriel | porter des collants / marcher en collants / enfiler des collants | Elle s’est déchaussée, marche en collants. | photo 1, page 9 |
+| Vêtements et objets du quotidien | des gants de caoutchouc | 橡胶手套 | groupe nominal | mettre des gants de caoutchouc / retirer ses gants de caoutchouc / une paire de gants en caoutchouc | Ils tombent sur Lorraine, la mère de Connell, qui retire ses gants de caoutchouc. | photo 1, page 9 |
+| Matières et objets | le caoutchouc | 橡胶 | nom masculin | des gants de caoutchouc / des bottes en caoutchouc / une semelle en caoutchouc | Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier. | photo 1, page 9 |
+| Maison et lieux | une paillasse | 厨房台面；工作台；实验台 | nom féminin | s’asseoir sur la paillasse / nettoyer la paillasse / poser quelque chose sur la paillasse | Marianne s’assoit d’un bond sur la paillasse. | photo 1, page 9 |
+| Vêtements et objets du quotidien | un tablier | 围裙 | nom masculin | un tablier de cuisine / détacher son tablier / mettre un tablier | Lorraine, qui détachait son tablier de cuisine, interrompt son geste. | photo 2, page 10 |
+| Maison et lieux | un sèche-linge | 烘干机 | nom masculin | vider le sèche-linge / mettre le linge au sèche-linge / sortir les vêtements du sèche-linge | Il faut juste que j’aille vider le sèche-linge. | photo 2, page 10 |
+| Vêtements et objets du quotidien | une cuillère | 勺子 | nom féminin | lécher la cuillère / faire tourner la cuillère dans le pot / une petite cuillère | Il s’adosse contre le réfrigérateur et la regarde lécher la cuillère. | photo 2, page 10 |
+| Maison et lieux | un manoir | 庄园宅邸；大宅 | nom masculin | habiter un manoir / un manoir blanc / un vieux manoir | On sait que Marianne habite le manoir blanc avec une grande allée. | photo 2, page 10 |
+| Gestes et attitudes | les épaules | 肩膀 | nom féminin pluriel | hausser les épaules / avoir les épaules tendues / poser une main sur l’épaule | Elle hausse les épaules. | photo 2, page 10 |
+| Sentiments et jugement | culpabiliser | 感到内疚；使某人内疚 | verbe | ne pas culpabiliser / culpabiliser quelqu’un / se sentir coupable | Ne culpabilise pas. | photo 2, page 10 |
+| Vêtements et objets du quotidien | des semelles | 鞋底 | nom féminin pluriel | des chaussures à semelles épaisses / une semelle usée / des semelles en caoutchouc | Elle porte de hideuses chaussures plates à semelles épaisses. | photo 2, page 11 |
+| Description physique et objets | épais / épaisse | 厚的；浓密的 | adjectif | des semelles épaisses / un pull épais / des cheveux épais | Elle porte de hideuses chaussures plates à semelles épaisses. | photo 2, page 11 |
+| Description physique et objets | les jambes | 腿 | nom féminin pluriel | se raser les jambes / avoir mal aux jambes / croiser les jambes | Il paraît qu’elle ne se rase pas les jambes. | photo 2, page 11 |
+| Actions du quotidien | renverser | 打翻；洒出；撞倒 | verbe | renverser un verre / renverser de la glace / renverser quelque chose sur ses vêtements | Connell a entendu dire qu’elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée. | photo 2, page 11 |
+| Vie scolaire et relations | un réfectoire | 食堂；餐厅 | nom masculin | au réfectoire du lycée / manger au réfectoire / entrer dans le réfectoire | Elle avait renversé de la glace au chocolat sur ses vêtements au réfectoire du lycée. | photo 2, page 11 |
+| Maison et lieux | un lavabo | 洗手池；盥洗盆 | nom masculin | se laver les mains au lavabo / frotter quelque chose dans le lavabo / nettoyer le lavabo | Elle était allée aux toilettes des filles retirer son chemisier pour le frotter dans le lavabo. | photo 2, page 11 |
+| Vie scolaire et relations | le bahut | 学校；中学（口语） | nom masculin familier | au bahut / aller au bahut / les gens du bahut | Si elle voulait, elle pourrait ouvertement saluer Connell au bahut. | photo 2, page 11 |
+| Vie scolaire et relations | une aprèm | 下午（口语） | nom féminin familier | cet aprèm / à cet aprèm / passer l’aprèm avec quelqu’un | À cet aprèm, pourrait-elle lui dire devant tout le monde. | photo 2, page 11 |
+| Sentiments et jugement | mettre quelqu’un dans une position inconfortable | 让某人处于尴尬/不舒服的处境 | locution verbale | mettre quelqu’un mal à l’aise / mettre quelqu’un dans l’embarras / une position inconfortable | Ça le mettrait sans aucun doute dans une position inconfortable. | photo 2, page 11 |
+| Sentiments et jugement | se délecter de quelque chose | 津津有味地享受；以某事为乐 | verbe pronominal | se délecter d’une histoire / se délecter d’un malaise / se délecter de petits drames | C’est généralement le genre de trucs dont elle se délecte. | photo 2, page 11 |
+| Description physique et objets | le crâne | 头颅；头骨 | nom masculin | au fond de son crâne / avoir mal au crâne / se cogner le crâne | Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne. | photo 3 |
+| Gestes et attitudes | hocher la tête | 点头 | locution verbale | hocher la tête en silence / hocher la tête pour dire oui / répondre d’un hochement de tête | Il hoche la tête, regarde autour de lui. | photo 3 |
+| Actions du quotidien | enfoncer | 把……压入/塞入；使陷进去 | verbe | enfoncer le bout de sa chaussure / enfoncer une clé dans la serrure / enfoncer ses mains dans les poches | Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage. | photo 3 |
+| Maison et lieux | des dalles | 地砖；石板 | nom féminin pluriel | les dalles du carrelage / une dalle de pierre / marcher sur les dalles | Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelage. | photo 3 |
+| Gestes et attitudes | se frotter le cou | 揉/摸脖子 | locution verbale | se frotter le cou / se frotter les mains / se frotter les yeux | Il se frotte le cou. | photo 3 |
+| Sentiments et jugement | à l’égard de quelqu’un | 对于某人；对某人 | locution prépositionnelle | les sentiments à son égard / son attitude à l’égard de quelqu’un / être dur à l’égard de quelqu’un | Les sentiments qu’il éprouve à son égard sont au centre de toutes les conversations au lycée. | photo 3 |
+| Vêtements et objets du quotidien | un nœud de cravate | 领带结 | groupe nominal | faire un nœud de cravate / toucher le nœud de sa cravate / resserrer son nœud de cravate | Elle le retient après le cours, parfois pour discuter de ce qu’il veut faire dans la vie, et a même une fois touché le nœud de cravate de son uniforme. | photo 3 |
+| Vie scolaire et relations | solliciter quelqu’un | 请求/找某人；引起某人回应 | verbe | solliciter l’aide de quelqu’un / être très sollicité / solliciter une réponse | Il reste assis en silence pendant qu’elle lui parle et le sollicite. | photo 3 |
+| Sentiments et jugement | gêné / gênée | 尴尬的；不好意思的；局促的 | adjectif | être gêné / être trop gêné pour parler / se sentir gêné | En cours, il est trop gêné et agacé pour se concentrer sur la leçon. | photo 3 |
+| Sentiments et jugement | agacé / agacée | 烦躁的；恼火的 | adjectif | être agacé par quelque chose / avoir l’air agacé / une voix agacée | En cours, il est trop gêné et agacé pour se concentrer sur la leçon. | photo 3 |
+| Gestes et attitudes | scruter | 仔细察看；凝视；审视 | verbe | scruter les pages / scruter le visage de quelqu’un / scruter l’horizon | En cours, il est trop gêné et agacé pour se concentrer sur la leçon, il scrute les pages de son manuel. | photo 3 |
