@@ -162,6 +162,28 @@ Lorraine plie soigneusement les gants de caoutchouc et les range sous l’évier
 
 使用场景: 描述材料、家务用品、鞋底或防水物品。
 
+### 2. la pierre
+
+- 中文: 石头；石材
+- 词性: nom féminin
+- 法语简释: Matière dure d’origine minérale, utilisée notamment pour construire ou sculpter.
+- 来源: page 14
+- 标签: matiere, objet, description
+- 搭配:
+  - une statue de pierre
+  - un mur en pierre
+  - une pierre froide
+
+例句:
+
+```text
+Il y a un court de tennis et une grande statue de pierre représentant une silhouette de femme.
+```
+
+例句翻译: 那里有一个网球场，还有一座大型石像，表现的是一个女人的身影。
+
+使用场景: 用于描述建筑、雕像、材料质感或冷硬的物体。
+
 ## Maison et lieux
 
 ### 1. une paillasse
@@ -273,6 +295,28 @@ Il enfonce le bout de sa chaussure dans une rainure entre les dalles du carrelag
 例句翻译: 他把鞋尖塞进地砖之间的一条缝里。
 
 使用场景: 描述地面、房屋细节或人物视线/动作落点。
+
+### 6. la vitre
+
+- 中文: 玻璃窗；玻璃片
+- 词性: nom féminin
+- 法语简释: Plaque de verre placée dans une fenêtre, une porte ou un objet.
+- 来源: page 14
+- 标签: maison, fenetre, objet
+- 搭配:
+  - approcher son visage de la vitre
+  - nettoyer une vitre
+  - regarder à travers la vitre
+
+例句:
+
+```text
+Il regarde le « domaine » et approche son visage de l’air froid de la vitre.
+```
+
+例句翻译: 他看着那片“领地”，把脸凑近窗玻璃透出的冷空气。
+
+使用场景: 用于描述窗户玻璃、隔着玻璃看东西，或玻璃带来的冷感。
 
 ## Gestes et attitudes
 
@@ -564,6 +608,50 @@ Tout le monde est si convaincu de son attirance pour Mlle Neary qu’il doute pa
 
 使用场景: 用于描述不是经过理性计划，而是从内心冒出来的感情或冲动。
 
+### 9. le dépit
+
+- 中文: 懊恼；失望后的恼火
+- 词性: nom masculin
+- 法语简释: Sentiment de contrariété ou d’amertume quand quelque chose ne se passe pas comme on l’espérait.
+- 来源: page 14
+- 标签: sentiment, frustration, reaction
+- 搭配:
+  - un rire de dépit
+  - par dépit
+  - éprouver du dépit
+
+例句:
+
+```text
+Il lâche un petit rire de dépit.
+```
+
+例句翻译: 他发出一声带着懊恼的小笑。
+
+使用场景: 用于写失望、受挫、被戳中后又不好直接反驳的情绪。
+
+### 10. en vouloir à quelqu’un
+
+- 中文: 怨恨某人；怪某人
+- 词性: locution verbale
+- 法语简释: Garder du ressentiment contre quelqu’un; lui reprocher quelque chose.
+- 来源: page 14
+- 标签: sentiment, rancune, relation
+- 搭配:
+  - en vouloir à quelqu’un
+  - ne pas t’en vouloir
+  - lui en vouloir pour quelque chose
+
+例句:
+
+```text
+C’est à cause de ça que les autres lui en veulent.
+```
+
+例句翻译: 正是因为这个，其他人才怪她。
+
+使用场景: 用于表达对某人有怨气、责怪某人，常用于关系和冲突。
+
 ## Description physique et objets
 
 ### 1. épais / épaisse
@@ -631,6 +719,50 @@ Elle pouvait voir à travers les yeux de Connell, jusqu’au fond de son crâne.
 例句翻译: 她仿佛能透过 Connell 的眼睛，一直看到他头脑深处。
 
 使用场景: 描述头部、身体感受或心理穿透感。
+
+### 4. une silhouette
+
+- 中文: 身影；轮廓；体形
+- 词性: nom féminin
+- 法语简释: Forme générale d’une personne ou d’un objet vue de loin ou sans beaucoup de détails.
+- 来源: page 14
+- 标签: description, corps, forme
+- 搭配:
+  - une silhouette de femme
+  - apercevoir une silhouette
+  - une silhouette sombre
+
+例句:
+
+```text
+Il y a un court de tennis et une grande statue de pierre représentant une silhouette de femme.
+```
+
+例句翻译: 那里有一个网球场，还有一座大型石像，表现的是一个女人的身影。
+
+使用场景: 用于描写远处的人影、外形轮廓、雕像或人物的整体形态。
+
+### 5. nu / nue
+
+- 中文: 裸露的；赤裸的
+- 词性: adjectif
+- 法语简释: Qui ne porte pas de vêtements, ou qui est découvert.
+- 来源: page 14
+- 标签: corps, description, intime
+- 搭配:
+  - être nu
+  - voir quelqu’un nu
+  - les pieds nus
+
+例句:
+
+```text
+Marianne n’est jamais sortie avec personne au bahut, personne ne l’a jamais vue nue.
+```
+
+例句翻译: 玛丽安从来没有和学校里的任何人交往过，也没有人见过她裸体。
+
+使用场景: 用于描述身体裸露，也常出现在亲密关系、传闻或尴尬语境中。
 
 ## Actions du quotidien
 
@@ -902,6 +1034,28 @@ Il ne sait même pas ce qu’on est censé ressentir quand quelqu’un nous atti
 
 使用场景: 用于表达“按理说应该怎样”，也可以带出困惑、期待或压力。
 
+### 4. une histoire
+
+- 中文: 故事；传闻；事情
+- 词性: nom féminin
+- 法语简释: Récit de faits réels ou inventés; dans la langue courante, peut aussi désigner une affaire ou une situation.
+- 来源: page 14
+- 标签: recit, rumeur, situation
+- 搭配:
+  - raconter une histoire
+  - cette histoire
+  - une histoire vraie
+
+例句:
+
+```text
+Connell pense que le véritable but de cette histoire est tout autre.
+```
+
+例句翻译: Connell 觉得这件事真正的目的完全是另一回事。
+
+使用场景: 用于说故事、传闻，也可表示“这件事/这桩事”。
+
 ## Corps et sensations
 
 ### 1. la nausée
@@ -925,4 +1079,70 @@ La nausée qui le prend quand Mlle Neary se penche sur son pupitre est-elle un s
 例句翻译: 当 Neary 小姐俯身靠近他的课桌时袭来的恶心感，难道是性兴奋的迹象吗？
 
 使用场景: 用于描述身体不适，也可以写由紧张、厌恶或焦虑引起的反应。
+
+### 2. rougir
+
+- 中文: 脸红；涨红
+- 词性: verbe
+- 法语简释: Devenir rouge au visage sous l’effet de la gêne, de la honte, de l’émotion ou de la chaleur.
+- 来源: page 14
+- 标签: corps, sentiment, visage
+- 搭配:
+  - rougir de honte
+  - rougir quand quelqu’un parle
+  - faire rougir quelqu’un
+
+例句:
+
+```text
+Peut-être parce que tu rougis souvent quand elle s’adresse à toi.
+```
+
+例句翻译: 也许是因为她跟你说话时，你经常脸红。
+
+使用场景: 用于描述害羞、尴尬、紧张或被别人看穿时脸上的反应。
+
+### 3. la langue
+
+- 中文: 舌头；语言
+- 词性: nom féminin
+- 法语简释: Organe dans la bouche qui sert à parler, goûter et avaler; le mot peut aussi désigner une langue parlée.
+- 来源: page 14
+- 标签: corps, bouche, geste
+- 搭配:
+  - tirer la langue
+  - coller la langue au palais
+  - avoir la langue sèche
+
+例句:
+
+```text
+Il ferme les yeux, colle la langue à son palais.
+```
+
+例句翻译: 他闭上眼睛，把舌头贴在上颚上。
+
+使用场景: 用于描述口腔动作、身体感受，也可在别的语境里表示语言。
+
+### 4. le palais
+
+- 中文: 上颚；腭
+- 词性: nom masculin
+- 法语简释: Partie supérieure de l’intérieur de la bouche.
+- 来源: page 14
+- 标签: corps, bouche, sensation
+- 搭配:
+  - coller la langue au palais
+  - le palais de la bouche
+  - un goût au palais
+
+例句:
+
+```text
+Il ferme les yeux, colle la langue à son palais.
+```
+
+例句翻译: 他闭上眼睛，把舌头贴在上颚上。
+
+使用场景: 用于描述口腔内部、吞咽、味觉或紧张时的小动作。
 

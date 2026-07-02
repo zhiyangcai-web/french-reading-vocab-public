@@ -4,7 +4,7 @@ Updated: 2026-07-02
 
 ## 2026-07-02
 
-Added 41 cards from the user's marked French reading pages.
+Added 51 cards from the user's marked French reading pages.
 
 ### Vêtements et objets du quotidien
 
@@ -18,6 +18,7 @@ Added 41 cards from the user's marked French reading pages.
 ### Matières et objets
 
 - `le caoutchouc` - 橡胶
+- `la pierre` - 石头；石材
 
 ### Maison et lieux
 
@@ -26,6 +27,7 @@ Added 41 cards from the user's marked French reading pages.
 - `un manoir` - 庄园宅邸；大宅
 - `un lavabo` - 洗手池；盥洗盆
 - `des dalles` - 地砖；石板
+- `la vitre` - 玻璃窗；玻璃片
 
 ### Gestes et attitudes
 
@@ -45,12 +47,16 @@ Added 41 cards from the user's marked French reading pages.
 - `agacé / agacée` - 烦躁的；恼火的
 - `J’en ai pas l’impression.` - 我不这么觉得；我没有这种感觉
 - `un élan` - 冲动；一阵情感；内心推动
+- `le dépit` - 懊恼；失望后的恼火
+- `en vouloir à quelqu’un` - 怨恨某人；怪某人
 
 ### Description physique et objets
 
 - `épais / épaisse` - 厚的；浓密的
 - `les jambes` - 腿
 - `le crâne` - 头颅；头骨
+- `une silhouette` - 身影；轮廓；体形
+- `nu / nue` - 裸露的；赤裸的
 
 ### Actions du quotidien
 
@@ -72,8 +78,12 @@ Added 41 cards from the user's marked French reading pages.
 - `au-delà de` - 超出；在……之外；超过
 - `en deçà de` - 低于；未达到；在……以内
 - `être censé faire quelque chose` - 按理应该做某事；被认为应该做某事
+- `une histoire` - 故事；传闻；事情
 
 ### Corps et sensations
 
 - `la nausée` - 恶心；想吐的感觉
+- `rougir` - 脸红；涨红
+- `la langue` - 舌头；语言
+- `le palais` - 上颚；腭
 

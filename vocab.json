@@ -986,6 +986,246 @@
       "useCase": "用于判断别人是不是在开玩笑，也可用于缓和语气或否认认真意图。",
       "sourcePage": "page 13",
       "exampleZh": "不，你在开玩笑吧。千万别。"
+    },
+    {
+      "id": "p14-rougir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Corps et sensations",
+      "tags": [
+        "corps",
+        "sentiment",
+        "visage"
+      ],
+      "expression": "rougir",
+      "pos": "verbe",
+      "zh": "脸红；涨红",
+      "definitionFr": "Devenir rouge au visage sous l’effet de la gêne, de la honte, de l’émotion ou de la chaleur.",
+      "collocations": [
+        "rougir de honte",
+        "rougir quand quelqu’un parle",
+        "faire rougir quelqu’un"
+      ],
+      "example": "Peut-être parce que tu rougis souvent quand elle s’adresse à toi.",
+      "exampleZh": "也许是因为她跟你说话时，你经常脸红。",
+      "useCase": "用于描述害羞、尴尬、紧张或被别人看穿时脸上的反应。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-depit",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "frustration",
+        "reaction"
+      ],
+      "expression": "le dépit",
+      "pos": "nom masculin",
+      "zh": "懊恼；失望后的恼火",
+      "definitionFr": "Sentiment de contrariété ou d’amertume quand quelque chose ne se passe pas comme on l’espérait.",
+      "collocations": [
+        "un rire de dépit",
+        "par dépit",
+        "éprouver du dépit"
+      ],
+      "example": "Il lâche un petit rire de dépit.",
+      "exampleZh": "他发出一声带着懊恼的小笑。",
+      "useCase": "用于写失望、受挫、被戳中后又不好直接反驳的情绪。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-langue",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Corps et sensations",
+      "tags": [
+        "corps",
+        "bouche",
+        "geste"
+      ],
+      "expression": "la langue",
+      "pos": "nom féminin",
+      "zh": "舌头；语言",
+      "definitionFr": "Organe dans la bouche qui sert à parler, goûter et avaler; le mot peut aussi désigner une langue parlée.",
+      "collocations": [
+        "tirer la langue",
+        "coller la langue au palais",
+        "avoir la langue sèche"
+      ],
+      "example": "Il ferme les yeux, colle la langue à son palais.",
+      "exampleZh": "他闭上眼睛，把舌头贴在上颚上。",
+      "useCase": "用于描述口腔动作、身体感受，也可在别的语境里表示语言。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-palais",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Corps et sensations",
+      "tags": [
+        "corps",
+        "bouche",
+        "sensation"
+      ],
+      "expression": "le palais",
+      "pos": "nom masculin",
+      "zh": "上颚；腭",
+      "definitionFr": "Partie supérieure de l’intérieur de la bouche.",
+      "collocations": [
+        "coller la langue au palais",
+        "le palais de la bouche",
+        "un goût au palais"
+      ],
+      "example": "Il ferme les yeux, colle la langue à son palais.",
+      "exampleZh": "他闭上眼睛，把舌头贴在上颚上。",
+      "useCase": "用于描述口腔内部、吞咽、味觉或紧张时的小动作。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-silhouette",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Description physique et objets",
+      "tags": [
+        "description",
+        "corps",
+        "forme"
+      ],
+      "expression": "une silhouette",
+      "pos": "nom féminin",
+      "zh": "身影；轮廓；体形",
+      "definitionFr": "Forme générale d’une personne ou d’un objet vue de loin ou sans beaucoup de détails.",
+      "collocations": [
+        "une silhouette de femme",
+        "apercevoir une silhouette",
+        "une silhouette sombre"
+      ],
+      "example": "Il y a un court de tennis et une grande statue de pierre représentant une silhouette de femme.",
+      "exampleZh": "那里有一个网球场，还有一座大型石像，表现的是一个女人的身影。",
+      "useCase": "用于描写远处的人影、外形轮廓、雕像或人物的整体形态。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-pierre",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Matières et objets",
+      "tags": [
+        "matiere",
+        "objet",
+        "description"
+      ],
+      "expression": "la pierre",
+      "pos": "nom féminin",
+      "zh": "石头；石材",
+      "definitionFr": "Matière dure d’origine minérale, utilisée notamment pour construire ou sculpter.",
+      "collocations": [
+        "une statue de pierre",
+        "un mur en pierre",
+        "une pierre froide"
+      ],
+      "example": "Il y a un court de tennis et une grande statue de pierre représentant une silhouette de femme.",
+      "exampleZh": "那里有一个网球场，还有一座大型石像，表现的是一个女人的身影。",
+      "useCase": "用于描述建筑、雕像、材料质感或冷硬的物体。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-vitre",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Maison et lieux",
+      "tags": [
+        "maison",
+        "fenetre",
+        "objet"
+      ],
+      "expression": "la vitre",
+      "pos": "nom féminin",
+      "zh": "玻璃窗；玻璃片",
+      "definitionFr": "Plaque de verre placée dans une fenêtre, une porte ou un objet.",
+      "collocations": [
+        "approcher son visage de la vitre",
+        "nettoyer une vitre",
+        "regarder à travers la vitre"
+      ],
+      "example": "Il regarde le « domaine » et approche son visage de l’air froid de la vitre.",
+      "exampleZh": "他看着那片“领地”，把脸凑近窗玻璃透出的冷空气。",
+      "useCase": "用于描述窗户玻璃、隔着玻璃看东西，或玻璃带来的冷感。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-histoire",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Expression et nuance",
+      "tags": [
+        "recit",
+        "rumeur",
+        "situation"
+      ],
+      "expression": "une histoire",
+      "pos": "nom féminin",
+      "zh": "故事；传闻；事情",
+      "definitionFr": "Récit de faits réels ou inventés; dans la langue courante, peut aussi désigner une affaire ou une situation.",
+      "collocations": [
+        "raconter une histoire",
+        "cette histoire",
+        "une histoire vraie"
+      ],
+      "example": "Connell pense que le véritable but de cette histoire est tout autre.",
+      "exampleZh": "Connell 觉得这件事真正的目的完全是另一回事。",
+      "useCase": "用于说故事、传闻，也可表示“这件事/这桩事”。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-nu",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Description physique et objets",
+      "tags": [
+        "corps",
+        "description",
+        "intime"
+      ],
+      "expression": "nu / nue",
+      "pos": "adjectif",
+      "zh": "裸露的；赤裸的",
+      "definitionFr": "Qui ne porte pas de vêtements, ou qui est découvert.",
+      "collocations": [
+        "être nu",
+        "voir quelqu’un nu",
+        "les pieds nus"
+      ],
+      "example": "Marianne n’est jamais sortie avec personne au bahut, personne ne l’a jamais vue nue.",
+      "exampleZh": "玛丽安从来没有和学校里的任何人交往过，也没有人见过她裸体。",
+      "useCase": "用于描述身体裸露，也常出现在亲密关系、传闻或尴尬语境中。",
+      "sourcePage": "page 14"
+    },
+    {
+      "id": "p14-en-vouloir",
+      "date": "2026-07-02",
+      "batch": "Janvier 2011 - page 14",
+      "theme": "Sentiments et jugement",
+      "tags": [
+        "sentiment",
+        "rancune",
+        "relation"
+      ],
+      "expression": "en vouloir à quelqu’un",
+      "pos": "locution verbale",
+      "zh": "怨恨某人；怪某人",
+      "definitionFr": "Garder du ressentiment contre quelqu’un; lui reprocher quelque chose.",
+      "collocations": [
+        "en vouloir à quelqu’un",
+        "ne pas t’en vouloir",
+        "lui en vouloir pour quelque chose"
+      ],
+      "example": "C’est à cause de ça que les autres lui en veulent.",
+      "exampleZh": "正是因为这个，其他人才怪她。",
+      "useCase": "用于表达对某人有怨气、责怪某人，常用于关系和冲突。",
+      "sourcePage": "page 14"
     }
   ]
 }
